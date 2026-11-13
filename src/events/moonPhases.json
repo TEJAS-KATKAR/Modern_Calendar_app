@@ -1,0 +1,42 @@
+[
+    {
+      "id": "new-moon",
+      "name": "New Moon",
+      "phase": "new",
+      "description": "The New Moon occurs when the Moon is positioned between Earth and the Sun, making the side facing Earth appear almost completely dark.",
+      "details": "During this phase, the Moon is generally difficult to see in the night sky. It marks the beginning of a new lunar cycle, which lasts approximately 29.5 days. The darker sky can also provide better conditions for observing faint stars and distant celestial objects.",
+      "appearance": "Almost invisible",
+      "illumination": "Approximately 0%",
+      "symbol": "🌑"
+    },
+    {
+      "id": "first-quarter",
+      "name": "First Quarter",
+      "phase": "first_quarter",
+      "description": "The First Quarter Moon occurs when approximately half of the Moon's visible surface is illuminated by sunlight.",
+      "details": "The Moon appears as a half-circle, with the right side illuminated when viewed from the Northern Hemisphere. It is generally visible during the afternoon and evening. This phase occurs roughly one week after the New Moon.",
+      "appearance": "Right half illuminated",
+      "illumination": "Approximately 50%",
+      "symbol": "🌓"
+    },
+    {
+      "id": "full-moon",
+      "name": "Full Moon",
+      "phase": "full",
+      "description": "A Full Moon occurs when Earth is positioned approximately between the Sun and the Moon, allowing the Moon's visible face to appear fully illuminated.",
+      "details": "The Moon appears as a bright, complete circle and is generally visible throughout the night. Full Moons occur approximately every 29.5 days. Some have traditional names, such as the Harvest Moon and Hunter's Moon, based on seasonal and cultural traditions.",
+      "appearance": "Fully illuminated circle",
+      "illumination": "Approximately 100%",
+      "symbol": "🌕"
+    },
+    {
+      "id": "last-quarter",
+      "name": "Last Quarter",
+      "phase": "last_quarter",
+      "description": "The Last Quarter Moon occurs when approximately half of the Moon's visible surface is illuminated again, but the opposite half compared with the First Quarter.",
+      "details": "The left side appears illuminated when viewed from the Northern Hemisphere. The Moon is generally visible during the late night and morning. This phase occurs roughly three weeks after the New Moon and leads toward the next New Moon.",
+      "appearance": "Left half illuminated",
+      "illumination": "Approximately 50%",
+      "symbol": "🌗"
+    }
+  ]

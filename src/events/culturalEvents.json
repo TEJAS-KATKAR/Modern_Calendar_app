@@ -1,0 +1,1241 @@
+[
+    {
+      "id": "groundhog-day-2026",
+      "name": "Groundhog Day",
+      "date": "2026-02-02",
+      "category": "cultural",
+      "description": "Groundhog Day is a popular American tradition in which a groundhog is said to predict whether winter will continue for six more weeks.",
+      "details": "According to the tradition, if the groundhog sees its shadow, winter will last longer. If it does not, an early spring is expected. The best-known celebration takes place in Punxsutawney, Pennsylvania.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "valentines-day-2026",
+      "name": "Valentine's Day",
+      "date": "2026-02-14",
+      "category": "cultural",
+      "description": "Valentine's Day celebrates love, affection, and meaningful relationships.",
+      "details": "People commonly exchange greeting cards, flowers, chocolates, and gifts with romantic partners, friends, and family. It is celebrated annually on February 14.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "mardi-gras-2026",
+      "name": "Mardi Gras",
+      "date": "2026-02-17",
+      "category": "cultural",
+      "description": "Mardi Gras, also called Fat Tuesday, is a festive celebration held before the Christian season of Lent.",
+      "details": "The celebration is especially famous in New Orleans, Louisiana, where parades, colorful costumes, music, dancing, and decorated floats fill the streets. Its date changes each year because it is linked to Easter.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "ash-wednesday-2026",
+      "name": "Ash Wednesday",
+      "date": "2026-02-18",
+      "category": "cultural",
+      "description": "Ash Wednesday marks the beginning of Lent, a period of reflection and spiritual preparation observed by many Western Christian traditions.",
+      "details": "Church services commonly include placing ashes on worshippers' foreheads as a symbol of repentance and humility. It falls 46 days before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "st-patricks-day-2026",
+      "name": "St. Patrick's Day",
+      "date": "2026-03-17",
+      "category": "cultural",
+      "description": "St. Patrick's Day celebrates Saint Patrick, the patron saint of Ireland, and Irish culture and heritage.",
+      "details": "In the United States, celebrations often include green clothing, shamrocks, Irish music, parades, and community festivals. It is observed every year on March 17.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "april-fools-day-2026",
+      "name": "April Fools' Day",
+      "date": "2026-04-01",
+      "category": "cultural",
+      "description": "April Fools' Day is a lighthearted occasion associated with practical jokes, playful tricks, and humorous surprises.",
+      "details": "People often play harmless jokes on friends, family, and coworkers. Some newspapers, websites, and companies also publish fictional stories or amusing announcements.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "good-friday-2026",
+      "name": "Good Friday",
+      "date": "2026-04-03",
+      "category": "cultural",
+      "description": "Good Friday is a Christian observance commemorating the crucifixion and death of Jesus Christ.",
+      "details": "Many Christians attend church services, participate in prayer, and observe the day through reflection and fasting. It takes place on the Friday before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "easter-2026",
+      "name": "Easter Sunday",
+      "date": "2026-04-05",
+      "category": "cultural",
+      "description": "Easter Sunday is one of the most important Christian celebrations, commemorating the resurrection of Jesus Christ.",
+      "details": "Common American traditions include Easter egg hunts, decorated eggs, family meals, church services, and gifts from the Easter Bunny. Its date changes every year.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "cinco-de-mayo-2026",
+      "name": "Cinco de Mayo",
+      "date": "2026-05-05",
+      "category": "cultural",
+      "description": "Cinco de Mayo commemorates the Mexican victory over French forces at the Battle of Puebla in 1862.",
+      "details": "In the United States, the day is widely associated with Mexican-American culture, music, food, and community celebrations. It is not Mexico's Independence Day.",
+      "observanceType": "cultural"
+    },
+    {
+      "id": "mothers-day-2026",
+      "name": "Mother's Day",
+      "date": "2026-05-10",
+      "category": "cultural",
+      "description": "Mother's Day honors mothers and mother figures and recognizes their care, support, and contributions to families.",
+      "details": "Many families celebrate with flowers, greeting cards, gifts, meals, and time together. In the United States, it takes place on the second Sunday of May.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "flag-day-2026",
+      "name": "Flag Day",
+      "date": "2026-06-14",
+      "category": "cultural",
+      "description": "Flag Day commemorates the adoption of the United States flag on June 14, 1777.",
+      "details": "The day recognizes the American flag and its role as a national symbol. People may display flags and participate in patriotic ceremonies and educational activities.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "fathers-day-2026",
+      "name": "Father's Day",
+      "date": "2026-06-21",
+      "category": "cultural",
+      "description": "Father's Day celebrates fathers and father figures and recognizes their role in family life.",
+      "details": "Families often celebrate with gifts, greeting cards, meals, outdoor activities, and time together. In the United States, it is observed on the third Sunday of June.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "pride-month-2026",
+      "name": "Pride Month",
+      "date": "2026-06-01",
+      "endDate": "2026-06-30",
+      "category": "cultural",
+      "description": "Pride Month recognizes LGBTQ+ communities, their history, achievements, and continued efforts toward equality and acceptance.",
+      "details": "Celebrations across the United States include Pride parades, community events, educational programs, and cultural gatherings. June is associated with the 1969 Stonewall uprising in New York City.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "national-ice-cream-day-2026",
+      "name": "National Ice Cream Day",
+      "date": "2026-07-19",
+      "category": "cultural",
+      "description": "National Ice Cream Day celebrates one of America's most popular frozen desserts.",
+      "details": "Ice cream shops and food businesses often mark the occasion with special flavors, promotions, and community activities. It is commonly observed on the third Sunday of July.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "parents-day-2026",
+      "name": "National Parents' Day",
+      "date": "2026-07-26",
+      "category": "cultural",
+      "description": "National Parents' Day recognizes parents and guardians for their commitment to raising and supporting children.",
+      "details": "Families may use the day to appreciate parents, spend time together, and recognize the responsibilities involved in raising children. It is observed on the fourth Sunday of July.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "patriot-day-2026",
+      "name": "Patriot Day",
+      "date": "2026-09-11",
+      "category": "cultural",
+      "description": "Patriot Day remembers the victims of the September 11, 2001 terrorist attacks in the United States.",
+      "details": "The day honors those who lost their lives, including passengers, first responders, and people at the World Trade Center and Pentagon. Memorial ceremonies and moments of silence are held across the country.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "grandparents-day-2026",
+      "name": "National Grandparents Day",
+      "date": "2026-09-13",
+      "category": "cultural",
+      "description": "National Grandparents Day celebrates grandparents and recognizes their role in families and communities.",
+      "details": "People often spend time with grandparents, share family stories, exchange cards, and express appreciation. In the United States, it falls on the first Sunday after Labor Day.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "hispanic-heritage-month-2026",
+      "name": "National Hispanic Heritage Month",
+      "date": "2026-09-15",
+      "endDate": "2026-10-15",
+      "category": "cultural",
+      "description": "National Hispanic Heritage Month recognizes the histories, cultures, and contributions of Hispanic and Latino Americans.",
+      "details": "The month-long celebration includes cultural festivals, educational programs, music, art, and community events. It begins on September 15, a date connected to the independence anniversaries of several Latin American countries.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "halloween-2026",
+      "name": "Halloween",
+      "date": "2026-10-31",
+      "category": "cultural",
+      "description": "Halloween is a popular celebration associated with costumes, spooky decorations, and trick-or-treating.",
+      "details": "Children often dress up and visit homes to collect candy, while families and communities organize parties, pumpkin carving, haunted attractions, and themed events. It is celebrated every year on October 31.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "day-of-the-dead-2026",
+      "name": "Día de los Muertos",
+      "date": "2026-11-01",
+      "endDate": "2026-11-02",
+      "category": "cultural",
+      "description": "Día de los Muertos, or Day of the Dead, is a Mexican tradition that honors deceased family members and loved ones.",
+      "details": "Families create colorful altars called ofrendas, decorate with marigolds, share food, and remember those who have passed away. The tradition is also celebrated by Mexican-American communities in the United States.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "black-friday-2026",
+      "name": "Black Friday",
+      "date": "2026-11-27",
+      "category": "cultural",
+      "description": "Black Friday is a major shopping day in the United States, traditionally taking place the day after Thanksgiving.",
+      "details": "Retailers offer significant discounts on electronics, clothing, household products, and other goods. It is widely considered the beginning of the holiday shopping season.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "small-business-saturday-2026",
+      "name": "Small Business Saturday",
+      "date": "2026-11-28",
+      "category": "cultural",
+      "description": "Small Business Saturday encourages people to support independently owned local businesses.",
+      "details": "Customers are encouraged to shop at neighborhood stores, restaurants, and other small businesses. It takes place on the Saturday after Thanksgiving.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "cyber-monday-2026",
+      "name": "Cyber Monday",
+      "date": "2026-11-30",
+      "category": "cultural",
+      "description": "Cyber Monday is a major online shopping event held on the Monday after Thanksgiving.",
+      "details": "Online retailers commonly offer special promotions and discounts, particularly on electronics, clothing, and other popular products.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "giving-tuesday-2026",
+      "name": "Giving Tuesday",
+      "date": "2026-12-01",
+      "category": "cultural",
+      "description": "Giving Tuesday is a global generosity movement that encourages people to support charitable causes and help their communities.",
+      "details": "People participate by donating money, volunteering, supporting nonprofits, and helping individuals in need. It takes place on the Tuesday after Thanksgiving.",
+      "observanceType": "charitable"
+    },
+    {
+      "id": "christmas-eve-2026",
+      "name": "Christmas Eve",
+      "date": "2026-12-24",
+      "category": "cultural",
+      "description": "Christmas Eve is the evening before Christmas Day and an important part of the Christmas celebration.",
+      "details": "Many families decorate their homes, exchange gifts, attend church services, prepare festive meals, and gather with loved ones. Some traditions include leaving cookies for Santa Claus.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "kwanzaa-2026",
+      "name": "Kwanzaa",
+      "date": "2026-12-26",
+      "endDate": "2027-01-01",
+      "category": "cultural",
+      "description": "Kwanzaa is a week-long cultural celebration honoring African heritage, community, family, and shared values.",
+      "details": "The celebration was created in 1966 and is observed from December 26 through January 1. Each day focuses on one of seven principles, including unity, self-determination, collective work, and creativity.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "new-years-eve-2026",
+      "name": "New Year's Eve",
+      "date": "2026-12-31",
+      "category": "cultural",
+      "description": "New Year's Eve marks the final day of the calendar year and the transition into a new year.",
+      "details": "People celebrate with countdowns, fireworks, parties, and gatherings. In New York City, the Times Square Ball Drop is one of the country's best-known New Year's Eve traditions.",
+      "observanceType": "popular"
+    },
+  
+    {
+      "id": "groundhog-day-2027",
+      "name": "Groundhog Day",
+      "date": "2027-02-02",
+      "category": "cultural",
+      "description": "Groundhog Day is a popular American tradition in which a groundhog is said to predict whether winter will continue for six more weeks.",
+      "details": "According to the tradition, if the groundhog sees its shadow, winter will last longer. If it does not, an early spring is expected. The best-known celebration takes place in Punxsutawney, Pennsylvania.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "valentines-day-2027",
+      "name": "Valentine's Day",
+      "date": "2027-02-14",
+      "category": "cultural",
+      "description": "Valentine's Day celebrates love, affection, and meaningful relationships.",
+      "details": "People commonly exchange greeting cards, flowers, chocolates, and gifts with romantic partners, friends, and family. It is celebrated annually on February 14.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "mardi-gras-2027",
+      "name": "Mardi Gras",
+      "date": "2027-02-09",
+      "category": "cultural",
+      "description": "Mardi Gras, also called Fat Tuesday, is a festive celebration held before the Christian season of Lent.",
+      "details": "The celebration is especially famous in New Orleans, Louisiana, where parades, colorful costumes, music, dancing, and decorated floats fill the streets. Its date changes each year because it is linked to Easter.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "ash-wednesday-2027",
+      "name": "Ash Wednesday",
+      "date": "2027-02-10",
+      "category": "cultural",
+      "description": "Ash Wednesday marks the beginning of Lent, a period of reflection and spiritual preparation observed by many Western Christian traditions.",
+      "details": "Church services commonly include placing ashes on worshippers' foreheads as a symbol of repentance and humility. It falls 46 days before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "st-patricks-day-2027",
+      "name": "St. Patrick's Day",
+      "date": "2027-03-17",
+      "category": "cultural",
+      "description": "St. Patrick's Day celebrates Saint Patrick, the patron saint of Ireland, and Irish culture and heritage.",
+      "details": "In the United States, celebrations often include green clothing, shamrocks, Irish music, parades, and community festivals. It is observed every year on March 17.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "april-fools-day-2027",
+      "name": "April Fools' Day",
+      "date": "2027-04-01",
+      "category": "cultural",
+      "description": "April Fools' Day is a lighthearted occasion associated with practical jokes, playful tricks, and humorous surprises.",
+      "details": "People often play harmless jokes on friends, family, and coworkers. Some newspapers, websites, and companies also publish fictional stories or amusing announcements.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "good-friday-2027",
+      "name": "Good Friday",
+      "date": "2027-03-26",
+      "category": "cultural",
+      "description": "Good Friday is a Christian observance commemorating the crucifixion and death of Jesus Christ.",
+      "details": "Many Christians attend church services, participate in prayer, and observe the day through reflection and fasting. It takes place on the Friday before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "easter-2027",
+      "name": "Easter Sunday",
+      "date": "2027-03-28",
+      "category": "cultural",
+      "description": "Easter Sunday is one of the most important Christian celebrations, commemorating the resurrection of Jesus Christ.",
+      "details": "Common American traditions include Easter egg hunts, decorated eggs, family meals, church services, and gifts from the Easter Bunny. Its date changes every year.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "cinco-de-mayo-2027",
+      "name": "Cinco de Mayo",
+      "date": "2027-05-05",
+      "category": "cultural",
+      "description": "Cinco de Mayo commemorates the Mexican victory over French forces at the Battle of Puebla in 1862.",
+      "details": "In the United States, the day is widely associated with Mexican-American culture, music, food, and community celebrations. It is not Mexico's Independence Day.",
+      "observanceType": "cultural"
+    },
+    {
+      "id": "mothers-day-2027",
+      "name": "Mother's Day",
+      "date": "2027-05-09",
+      "category": "cultural",
+      "description": "Mother's Day honors mothers and mother figures and recognizes their care, support, and contributions to families.",
+      "details": "Many families celebrate with flowers, greeting cards, gifts, meals, and time together. In the United States, it takes place on the second Sunday of May.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "flag-day-2027",
+      "name": "Flag Day",
+      "date": "2027-06-14",
+      "category": "cultural",
+      "description": "Flag Day commemorates the adoption of the United States flag on June 14, 1777.",
+      "details": "The day recognizes the American flag and its role as a national symbol. People may display flags and participate in patriotic ceremonies and educational activities.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "fathers-day-2027",
+      "name": "Father's Day",
+      "date": "2027-06-20",
+      "category": "cultural",
+      "description": "Father's Day celebrates fathers and father figures and recognizes their role in family life.",
+      "details": "Families often celebrate with gifts, greeting cards, meals, outdoor activities, and time together. In the United States, it is observed on the third Sunday of June.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "pride-month-2027",
+      "name": "Pride Month",
+      "date": "2027-06-01",
+      "endDate": "2027-06-30",
+      "category": "cultural",
+      "description": "Pride Month recognizes LGBTQ+ communities, their history, achievements, and continued efforts toward equality and acceptance.",
+      "details": "Celebrations across the United States include Pride parades, community events, educational programs, and cultural gatherings. June is associated with the 1969 Stonewall uprising in New York City.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "national-ice-cream-day-2027",
+      "name": "National Ice Cream Day",
+      "date": "2027-07-18",
+      "category": "cultural",
+      "description": "National Ice Cream Day celebrates one of America's most popular frozen desserts.",
+      "details": "Ice cream shops and food businesses often mark the occasion with special flavors, promotions, and community activities. It is commonly observed on the third Sunday of July.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "parents-day-2027",
+      "name": "National Parents' Day",
+      "date": "2027-07-25",
+      "category": "cultural",
+      "description": "National Parents' Day recognizes parents and guardians for their commitment to raising and supporting children.",
+      "details": "Families may use the day to appreciate parents, spend time together, and recognize the responsibilities involved in raising children. It is observed on the fourth Sunday of July.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "patriot-day-2027",
+      "name": "Patriot Day",
+      "date": "2027-09-11",
+      "category": "cultural",
+      "description": "Patriot Day remembers the victims of the September 11, 2001 terrorist attacks in the United States.",
+      "details": "The day honors those who lost their lives, including passengers, first responders, and people at the World Trade Center and Pentagon. Memorial ceremonies and moments of silence are held across the country.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "grandparents-day-2027",
+      "name": "National Grandparents Day",
+      "date": "2027-09-12",
+      "category": "cultural",
+      "description": "National Grandparents Day celebrates grandparents and recognizes their role in families and communities.",
+      "details": "People often spend time with grandparents, share family stories, exchange cards, and express appreciation. In the United States, it falls on the first Sunday after Labor Day.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "hispanic-heritage-month-2027",
+      "name": "National Hispanic Heritage Month",
+      "date": "2027-09-15",
+      "endDate": "2027-10-15",
+      "category": "cultural",
+      "description": "National Hispanic Heritage Month recognizes the histories, cultures, and contributions of Hispanic and Latino Americans.",
+      "details": "The month-long celebration includes cultural festivals, educational programs, music, art, and community events. It begins on September 15, a date connected to the independence anniversaries of several Latin American countries.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "halloween-2027",
+      "name": "Halloween",
+      "date": "2027-10-31",
+      "category": "cultural",
+      "description": "Halloween is a popular celebration associated with costumes, spooky decorations, and trick-or-treating.",
+      "details": "Children often dress up and visit homes to collect candy, while families and communities organize parties, pumpkin carving, haunted attractions, and themed events. It is celebrated every year on October 31.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "day-of-the-dead-2027",
+      "name": "Día de los Muertos",
+      "date": "2027-11-01",
+      "endDate": "2027-11-02",
+      "category": "cultural",
+      "description": "Día de los Muertos, or Day of the Dead, is a Mexican tradition that honors deceased family members and loved ones.",
+      "details": "Families create colorful altars called ofrendas, decorate with marigolds, share food, and remember those who have passed away. The tradition is also celebrated by Mexican-American communities in the United States.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "black-friday-2027",
+      "name": "Black Friday",
+      "date": "2027-11-26",
+      "category": "cultural",
+      "description": "Black Friday is a major shopping day in the United States, traditionally taking place the day after Thanksgiving.",
+      "details": "Retailers offer significant discounts on electronics, clothing, household products, and other goods. It is widely considered the beginning of the holiday shopping season.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "small-business-saturday-2027",
+      "name": "Small Business Saturday",
+      "date": "2027-11-27",
+      "category": "cultural",
+      "description": "Small Business Saturday encourages people to support independently owned local businesses.",
+      "details": "Customers are encouraged to shop at neighborhood stores, restaurants, and other small businesses. It takes place on the Saturday after Thanksgiving.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "cyber-monday-2027",
+      "name": "Cyber Monday",
+      "date": "2027-11-29",
+      "category": "cultural",
+      "description": "Cyber Monday is a major online shopping event held on the Monday after Thanksgiving.",
+      "details": "Online retailers commonly offer special promotions and discounts, particularly on electronics, clothing, and other popular products.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "giving-tuesday-2027",
+      "name": "Giving Tuesday",
+      "date": "2027-11-30",
+      "category": "cultural",
+      "description": "Giving Tuesday is a global generosity movement that encourages people to support charitable causes and help their communities.",
+      "details": "People participate by donating money, volunteering, supporting nonprofits, and helping individuals in need. It takes place on the Tuesday after Thanksgiving.",
+      "observanceType": "charitable"
+    },
+    {
+      "id": "christmas-eve-2027",
+      "name": "Christmas Eve",
+      "date": "2027-12-24",
+      "category": "cultural",
+      "description": "Christmas Eve is the evening before Christmas Day and an important part of the Christmas celebration.",
+      "details": "Many families decorate their homes, exchange gifts, attend church services, prepare festive meals, and gather with loved ones. Some traditions include leaving cookies for Santa Claus.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "kwanzaa-2027",
+      "name": "Kwanzaa",
+      "date": "2027-12-26",
+      "endDate": "2028-01-01",
+      "category": "cultural",
+      "description": "Kwanzaa is a week-long cultural celebration honoring African heritage, community, family, and shared values.",
+      "details": "The celebration was created in 1966 and is observed from December 26 through January 1. Each day focuses on one of seven principles, including unity, self-determination, collective work, and creativity.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "new-years-eve-2027",
+      "name": "New Year's Eve",
+      "date": "2027-12-31",
+      "category": "cultural",
+      "description": "New Year's Eve marks the final day of the calendar year and the transition into a new year.",
+      "details": "People celebrate with countdowns, fireworks, parties, and gatherings. In New York City, the Times Square Ball Drop is one of the country's best-known New Year's Eve traditions.",
+      "observanceType": "popular"
+    },
+  
+    {
+      "id": "groundhog-day-2028",
+      "name": "Groundhog Day",
+      "date": "2028-02-02",
+      "category": "cultural",
+      "description": "Groundhog Day is a popular American tradition in which a groundhog is said to predict whether winter will continue for six more weeks.",
+      "details": "According to the tradition, if the groundhog sees its shadow, winter will last longer. If it does not, an early spring is expected. The best-known celebration takes place in Punxsutawney, Pennsylvania.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "valentines-day-2028",
+      "name": "Valentine's Day",
+      "date": "2028-02-14",
+      "category": "cultural",
+      "description": "Valentine's Day celebrates love, affection, and meaningful relationships.",
+      "details": "People commonly exchange greeting cards, flowers, chocolates, and gifts with romantic partners, friends, and family. It is celebrated annually on February 14.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "mardi-gras-2028",
+      "name": "Mardi Gras",
+      "date": "2028-02-29",
+      "category": "cultural",
+      "description": "Mardi Gras, also called Fat Tuesday, is a festive celebration held before the Christian season of Lent.",
+      "details": "The celebration is especially famous in New Orleans, Louisiana, where parades, colorful costumes, music, dancing, and decorated floats fill the streets. Its date changes each year because it is linked to Easter.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "ash-wednesday-2028",
+      "name": "Ash Wednesday",
+      "date": "2028-03-01",
+      "category": "cultural",
+      "description": "Ash Wednesday marks the beginning of Lent, a period of reflection and spiritual preparation observed by many Western Christian traditions.",
+      "details": "Church services commonly include placing ashes on worshippers' foreheads as a symbol of repentance and humility. It falls 46 days before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "st-patricks-day-2028",
+      "name": "St. Patrick's Day",
+      "date": "2028-03-17",
+      "category": "cultural",
+      "description": "St. Patrick's Day celebrates Saint Patrick, the patron saint of Ireland, and Irish culture and heritage.",
+      "details": "In the United States, celebrations often include green clothing, shamrocks, Irish music, parades, and community festivals. It is observed every year on March 17.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "april-fools-day-2028",
+      "name": "April Fools' Day",
+      "date": "2028-04-01",
+      "category": "cultural",
+      "description": "April Fools' Day is a lighthearted occasion associated with practical jokes, playful tricks, and humorous surprises.",
+      "details": "People often play harmless jokes on friends, family, and coworkers. Some newspapers, websites, and companies also publish fictional stories or amusing announcements.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "good-friday-2028",
+      "name": "Good Friday",
+      "date": "2028-04-14",
+      "category": "cultural",
+      "description": "Good Friday is a Christian observance commemorating the crucifixion and death of Jesus Christ.",
+      "details": "Many Christians attend church services, participate in prayer, and observe the day through reflection and fasting. It takes place on the Friday before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "easter-2028",
+      "name": "Easter Sunday",
+      "date": "2028-04-16",
+      "category": "cultural",
+      "description": "Easter Sunday is one of the most important Christian celebrations, commemorating the resurrection of Jesus Christ.",
+      "details": "Common American traditions include Easter egg hunts, decorated eggs, family meals, church services, and gifts from the Easter Bunny. Its date changes every year.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "cinco-de-mayo-2028",
+      "name": "Cinco de Mayo",
+      "date": "2028-05-05",
+      "category": "cultural",
+      "description": "Cinco de Mayo commemorates the Mexican victory over French forces at the Battle of Puebla in 1862.",
+      "details": "In the United States, the day is widely associated with Mexican-American culture, music, food, and community celebrations. It is not Mexico's Independence Day.",
+      "observanceType": "cultural"
+    },
+    {
+      "id": "mothers-day-2028",
+      "name": "Mother's Day",
+      "date": "2028-05-14",
+      "category": "cultural",
+      "description": "Mother's Day honors mothers and mother figures and recognizes their care, support, and contributions to families.",
+      "details": "Many families celebrate with flowers, greeting cards, gifts, meals, and time together. In the United States, it takes place on the second Sunday of May.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "flag-day-2028",
+      "name": "Flag Day",
+      "date": "2028-06-14",
+      "category": "cultural",
+      "description": "Flag Day commemorates the adoption of the United States flag on June 14, 1777.",
+      "details": "The day recognizes the American flag and its role as a national symbol. People may display flags and participate in patriotic ceremonies and educational activities.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "fathers-day-2028",
+      "name": "Father's Day",
+      "date": "2028-06-18",
+      "category": "cultural",
+      "description": "Father's Day celebrates fathers and father figures and recognizes their role in family life.",
+      "details": "Families often celebrate with gifts, greeting cards, meals, outdoor activities, and time together. In the United States, it is observed on the third Sunday of June.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "pride-month-2028",
+      "name": "Pride Month",
+      "date": "2028-06-01",
+      "endDate": "2028-06-30",
+      "category": "cultural",
+      "description": "Pride Month recognizes LGBTQ+ communities, their history, achievements, and continued efforts toward equality and acceptance.",
+      "details": "Celebrations across the United States include Pride parades, community events, educational programs, and cultural gatherings. June is associated with the 1969 Stonewall uprising in New York City.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "national-ice-cream-day-2028",
+      "name": "National Ice Cream Day",
+      "date": "2028-07-16",
+      "category": "cultural",
+      "description": "National Ice Cream Day celebrates one of America's most popular frozen desserts.",
+      "details": "Ice cream shops and food businesses often mark the occasion with special flavors, promotions, and community activities. It is commonly observed on the third Sunday of July.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "parents-day-2028",
+      "name": "National Parents' Day",
+      "date": "2028-07-23",
+      "category": "cultural",
+      "description": "National Parents' Day recognizes parents and guardians for their commitment to raising and supporting children.",
+      "details": "Families may use the day to appreciate parents, spend time together, and recognize the responsibilities involved in raising children. It is observed on the fourth Sunday of July.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "patriot-day-2028",
+      "name": "Patriot Day",
+      "date": "2028-09-11",
+      "category": "cultural",
+      "description": "Patriot Day remembers the victims of the September 11, 2001 terrorist attacks in the United States.",
+      "details": "The day honors those who lost their lives, including passengers, first responders, and people at the World Trade Center and Pentagon. Memorial ceremonies and moments of silence are held across the country.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "grandparents-day-2028",
+      "name": "National Grandparents Day",
+      "date": "2028-09-10",
+      "category": "cultural",
+      "description": "National Grandparents Day celebrates grandparents and recognizes their role in families and communities.",
+      "details": "People often spend time with grandparents, share family stories, exchange cards, and express appreciation. In the United States, it falls on the first Sunday after Labor Day.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "hispanic-heritage-month-2028",
+      "name": "National Hispanic Heritage Month",
+      "date": "2028-09-15",
+      "endDate": "2028-10-15",
+      "category": "cultural",
+      "description": "National Hispanic Heritage Month recognizes the histories, cultures, and contributions of Hispanic and Latino Americans.",
+      "details": "The month-long celebration includes cultural festivals, educational programs, music, art, and community events. It begins on September 15, a date connected to the independence anniversaries of several Latin American countries.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "halloween-2028",
+      "name": "Halloween",
+      "date": "2028-10-31",
+      "category": "cultural",
+      "description": "Halloween is a popular celebration associated with costumes, spooky decorations, and trick-or-treating.",
+      "details": "Children often dress up and visit homes to collect candy, while families and communities organize parties, pumpkin carving, haunted attractions, and themed events. It is celebrated every year on October 31.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "day-of-the-dead-2028",
+      "name": "Día de los Muertos",
+      "date": "2028-11-01",
+      "endDate": "2028-11-02",
+      "category": "cultural",
+      "description": "Día de los Muertos, or Day of the Dead, is a Mexican tradition that honors deceased family members and loved ones.",
+      "details": "Families create colorful altars called ofrendas, decorate with marigolds, share food, and remember those who have passed away. The tradition is also celebrated by Mexican-American communities in the United States.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "black-friday-2028",
+      "name": "Black Friday",
+      "date": "2028-11-24",
+      "category": "cultural",
+      "description": "Black Friday is a major shopping day in the United States, traditionally taking place the day after Thanksgiving.",
+      "details": "Retailers offer significant discounts on electronics, clothing, household products, and other goods. It is widely considered the beginning of the holiday shopping season.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "small-business-saturday-2028",
+      "name": "Small Business Saturday",
+      "date": "2028-11-25",
+      "category": "cultural",
+      "description": "Small Business Saturday encourages people to support independently owned local businesses.",
+      "details": "Customers are encouraged to shop at neighborhood stores, restaurants, and other small businesses. It takes place on the Saturday after Thanksgiving.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "cyber-monday-2028",
+      "name": "Cyber Monday",
+      "date": "2028-11-27",
+      "category": "cultural",
+      "description": "Cyber Monday is a major online shopping event held on the Monday after Thanksgiving.",
+      "details": "Online retailers commonly offer special promotions and discounts, particularly on electronics, clothing, and other popular products.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "giving-tuesday-2028",
+      "name": "Giving Tuesday",
+      "date": "2028-11-28",
+      "category": "cultural",
+      "description": "Giving Tuesday is a global generosity movement that encourages people to support charitable causes and help their communities.",
+      "details": "People participate by donating money, volunteering, supporting nonprofits, and helping individuals in need. It takes place on the Tuesday after Thanksgiving.",
+      "observanceType": "charitable"
+    },
+    {
+      "id": "christmas-eve-2028",
+      "name": "Christmas Eve",
+      "date": "2028-12-24",
+      "category": "cultural",
+      "description": "Christmas Eve is the evening before Christmas Day and an important part of the Christmas celebration.",
+      "details": "Many families decorate their homes, exchange gifts, attend church services, prepare festive meals, and gather with loved ones. Some traditions include leaving cookies for Santa Claus.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "kwanzaa-2028",
+      "name": "Kwanzaa",
+      "date": "2028-12-26",
+      "endDate": "2029-01-01",
+      "category": "cultural",
+      "description": "Kwanzaa is a week-long cultural celebration honoring African heritage, community, family, and shared values.",
+      "details": "The celebration was created in 1966 and is observed from December 26 through January 1. Each day focuses on one of seven principles, including unity, self-determination, collective work, and creativity.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "new-years-eve-2028",
+      "name": "New Year's Eve",
+      "date": "2028-12-31",
+      "category": "cultural",
+      "description": "New Year's Eve marks the final day of the calendar year and the transition into a new year.",
+      "details": "People celebrate with countdowns, fireworks, parties, and gatherings. In New York City, the Times Square Ball Drop is one of the country's best-known New Year's Eve traditions.",
+      "observanceType": "popular"
+    },
+  
+    {
+      "id": "groundhog-day-2029",
+      "name": "Groundhog Day",
+      "date": "2029-02-02",
+      "category": "cultural",
+      "description": "Groundhog Day is a popular American tradition in which a groundhog is said to predict whether winter will continue for six more weeks.",
+      "details": "According to the tradition, if the groundhog sees its shadow, winter will last longer. If it does not, an early spring is expected. The best-known celebration takes place in Punxsutawney, Pennsylvania.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "valentines-day-2029",
+      "name": "Valentine's Day",
+      "date": "2029-02-14",
+      "category": "cultural",
+      "description": "Valentine's Day celebrates love, affection, and meaningful relationships.",
+      "details": "People commonly exchange greeting cards, flowers, chocolates, and gifts with romantic partners, friends, and family. It is celebrated annually on February 14.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "mardi-gras-2029",
+      "name": "Mardi Gras",
+      "date": "2029-02-13",
+      "category": "cultural",
+      "description": "Mardi Gras, also called Fat Tuesday, is a festive celebration held before the Christian season of Lent.",
+      "details": "The celebration is especially famous in New Orleans, Louisiana, where parades, colorful costumes, music, dancing, and decorated floats fill the streets. Its date changes each year because it is linked to Easter.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "ash-wednesday-2029",
+      "name": "Ash Wednesday",
+      "date": "2029-02-14",
+      "category": "cultural",
+      "description": "Ash Wednesday marks the beginning of Lent, a period of reflection and spiritual preparation observed by many Western Christian traditions.",
+      "details": "Church services commonly include placing ashes on worshippers' foreheads as a symbol of repentance and humility. It falls 46 days before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "st-patricks-day-2029",
+      "name": "St. Patrick's Day",
+      "date": "2029-03-17",
+      "category": "cultural",
+      "description": "St. Patrick's Day celebrates Saint Patrick, the patron saint of Ireland, and Irish culture and heritage.",
+      "details": "In the United States, celebrations often include green clothing, shamrocks, Irish music, parades, and community festivals. It is observed every year on March 17.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "april-fools-day-2029",
+      "name": "April Fools' Day",
+      "date": "2029-04-01",
+      "category": "cultural",
+      "description": "April Fools' Day is a lighthearted occasion associated with practical jokes, playful tricks, and humorous surprises.",
+      "details": "People often play harmless jokes on friends, family, and coworkers. Some newspapers, websites, and companies also publish fictional stories or amusing announcements.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "good-friday-2029",
+      "name": "Good Friday",
+      "date": "2029-03-30",
+      "category": "cultural",
+      "description": "Good Friday is a Christian observance commemorating the crucifixion and death of Jesus Christ.",
+      "details": "Many Christians attend church services, participate in prayer, and observe the day through reflection and fasting. It takes place on the Friday before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "easter-2029",
+      "name": "Easter Sunday",
+      "date": "2029-04-01",
+      "category": "cultural",
+      "description": "Easter Sunday is one of the most important Christian celebrations, commemorating the resurrection of Jesus Christ.",
+      "details": "Common American traditions include Easter egg hunts, decorated eggs, family meals, church services, and gifts from the Easter Bunny. Its date changes every year.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "cinco-de-mayo-2029",
+      "name": "Cinco de Mayo",
+      "date": "2029-05-05",
+      "category": "cultural",
+      "description": "Cinco de Mayo commemorates the Mexican victory over French forces at the Battle of Puebla in 1862.",
+      "details": "In the United States, the day is widely associated with Mexican-American culture, music, food, and community celebrations. It is not Mexico's Independence Day.",
+      "observanceType": "cultural"
+    },
+    {
+      "id": "mothers-day-2029",
+      "name": "Mother's Day",
+      "date": "2029-05-13",
+      "category": "cultural",
+      "description": "Mother's Day honors mothers and mother figures and recognizes their care, support, and contributions to families.",
+      "details": "Many families celebrate with flowers, greeting cards, gifts, meals, and time together. In the United States, it takes place on the second Sunday of May.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "flag-day-2029",
+      "name": "Flag Day",
+      "date": "2029-06-14",
+      "category": "cultural",
+      "description": "Flag Day commemorates the adoption of the United States flag on June 14, 1777.",
+      "details": "The day recognizes the American flag and its role as a national symbol. People may display flags and participate in patriotic ceremonies and educational activities.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "fathers-day-2029",
+      "name": "Father's Day",
+      "date": "2029-06-17",
+      "category": "cultural",
+      "description": "Father's Day celebrates fathers and father figures and recognizes their role in family life.",
+      "details": "Families often celebrate with gifts, greeting cards, meals, outdoor activities, and time together. In the United States, it is observed on the third Sunday of June.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "pride-month-2029",
+      "name": "Pride Month",
+      "date": "2029-06-01",
+      "endDate": "2029-06-30",
+      "category": "cultural",
+      "description": "Pride Month recognizes LGBTQ+ communities, their history, achievements, and continued efforts toward equality and acceptance.",
+      "details": "Celebrations across the United States include Pride parades, community events, educational programs, and cultural gatherings. June is associated with the 1969 Stonewall uprising in New York City.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "national-ice-cream-day-2029",
+      "name": "National Ice Cream Day",
+      "date": "2029-07-15",
+      "category": "cultural",
+      "description": "National Ice Cream Day celebrates one of America's most popular frozen desserts.",
+      "details": "Ice cream shops and food businesses often mark the occasion with special flavors, promotions, and community activities. It is commonly observed on the third Sunday of July.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "parents-day-2029",
+      "name": "National Parents' Day",
+      "date": "2029-07-22",
+      "category": "cultural",
+      "description": "National Parents' Day recognizes parents and guardians for their commitment to raising and supporting children.",
+      "details": "Families may use the day to appreciate parents, spend time together, and recognize the responsibilities involved in raising children. It is observed on the fourth Sunday of July.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "patriot-day-2029",
+      "name": "Patriot Day",
+      "date": "2029-09-11",
+      "category": "cultural",
+      "description": "Patriot Day remembers the victims of the September 11, 2001 terrorist attacks in the United States.",
+      "details": "The day honors those who lost their lives, including passengers, first responders, and people at the World Trade Center and Pentagon. Memorial ceremonies and moments of silence are held across the country.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "grandparents-day-2029",
+      "name": "National Grandparents Day",
+      "date": "2029-09-09",
+      "category": "cultural",
+      "description": "National Grandparents Day celebrates grandparents and recognizes their role in families and communities.",
+      "details": "People often spend time with grandparents, share family stories, exchange cards, and express appreciation. In the United States, it falls on the first Sunday after Labor Day.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "hispanic-heritage-month-2029",
+      "name": "National Hispanic Heritage Month",
+      "date": "2029-09-15",
+      "endDate": "2029-10-15",
+      "category": "cultural",
+      "description": "National Hispanic Heritage Month recognizes the histories, cultures, and contributions of Hispanic and Latino Americans.",
+      "details": "The month-long celebration includes cultural festivals, educational programs, music, art, and community events. It begins on September 15, a date connected to the independence anniversaries of several Latin American countries.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "halloween-2029",
+      "name": "Halloween",
+      "date": "2029-10-31",
+      "category": "cultural",
+      "description": "Halloween is a popular celebration associated with costumes, spooky decorations, and trick-or-treating.",
+      "details": "Children often dress up and visit homes to collect candy, while families and communities organize parties, pumpkin carving, haunted attractions, and themed events. It is celebrated every year on October 31.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "day-of-the-dead-2029",
+      "name": "Día de los Muertos",
+      "date": "2029-11-01",
+      "endDate": "2029-11-02",
+      "category": "cultural",
+      "description": "Día de los Muertos, or Day of the Dead, is a Mexican tradition that honors deceased family members and loved ones.",
+      "details": "Families create colorful altars called ofrendas, decorate with marigolds, share food, and remember those who have passed away. The tradition is also celebrated by Mexican-American communities in the United States.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "black-friday-2029",
+      "name": "Black Friday",
+      "date": "2029-11-23",
+      "category": "cultural",
+      "description": "Black Friday is a major shopping day in the United States, traditionally taking place the day after Thanksgiving.",
+      "details": "Retailers offer significant discounts on electronics, clothing, household products, and other goods. It is widely considered the beginning of the holiday shopping season.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "small-business-saturday-2029",
+      "name": "Small Business Saturday",
+      "date": "2029-11-24",
+      "category": "cultural",
+      "description": "Small Business Saturday encourages people to support independently owned local businesses.",
+      "details": "Customers are encouraged to shop at neighborhood stores, restaurants, and other small businesses. It takes place on the Saturday after Thanksgiving.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "cyber-monday-2029",
+      "name": "Cyber Monday",
+      "date": "2029-11-26",
+      "category": "cultural",
+      "description": "Cyber Monday is a major online shopping event held on the Monday after Thanksgiving.",
+      "details": "Online retailers commonly offer special promotions and discounts, particularly on electronics, clothing, and other popular products.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "giving-tuesday-2029",
+      "name": "Giving Tuesday",
+      "date": "2029-11-27",
+      "category": "cultural",
+      "description": "Giving Tuesday is a global generosity movement that encourages people to support charitable causes and help their communities.",
+      "details": "People participate by donating money, volunteering, supporting nonprofits, and helping individuals in need. It takes place on the Tuesday after Thanksgiving.",
+      "observanceType": "charitable"
+    },
+    {
+      "id": "christmas-eve-2029",
+      "name": "Christmas Eve",
+      "date": "2029-12-24",
+      "category": "cultural",
+      "description": "Christmas Eve is the evening before Christmas Day and an important part of the Christmas celebration.",
+      "details": "Many families decorate their homes, exchange gifts, attend church services, prepare festive meals, and gather with loved ones. Some traditions include leaving cookies for Santa Claus.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "kwanzaa-2029",
+      "name": "Kwanzaa",
+      "date": "2029-12-26",
+      "endDate": "2030-01-01",
+      "category": "cultural",
+      "description": "Kwanzaa is a week-long cultural celebration honoring African heritage, community, family, and shared values.",
+      "details": "The celebration was created in 1966 and is observed from December 26 through January 1. Each day focuses on one of seven principles, including unity, self-determination, collective work, and creativity.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "new-years-eve-2029",
+      "name": "New Year's Eve",
+      "date": "2029-12-31",
+      "category": "cultural",
+      "description": "New Year's Eve marks the final day of the calendar year and the transition into a new year.",
+      "details": "People celebrate with countdowns, fireworks, parties, and gatherings. In New York City, the Times Square Ball Drop is one of the country's best-known New Year's Eve traditions.",
+      "observanceType": "popular"
+    },
+  
+    {
+      "id": "groundhog-day-2030",
+      "name": "Groundhog Day",
+      "date": "2030-02-02",
+      "category": "cultural",
+      "description": "Groundhog Day is a popular American tradition in which a groundhog is said to predict whether winter will continue for six more weeks.",
+      "details": "According to the tradition, if the groundhog sees its shadow, winter will last longer. If it does not, an early spring is expected. The best-known celebration takes place in Punxsutawney, Pennsylvania.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "valentines-day-2030",
+      "name": "Valentine's Day",
+      "date": "2030-02-14",
+      "category": "cultural",
+      "description": "Valentine's Day celebrates love, affection, and meaningful relationships.",
+      "details": "People commonly exchange greeting cards, flowers, chocolates, and gifts with romantic partners, friends, and family. It is celebrated annually on February 14.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "mardi-gras-2030",
+      "name": "Mardi Gras",
+      "date": "2030-03-05",
+      "category": "cultural",
+      "description": "Mardi Gras, also called Fat Tuesday, is a festive celebration held before the Christian season of Lent.",
+      "details": "The celebration is especially famous in New Orleans, Louisiana, where parades, colorful costumes, music, dancing, and decorated floats fill the streets. Its date changes each year because it is linked to Easter.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "ash-wednesday-2030",
+      "name": "Ash Wednesday",
+      "date": "2030-03-06",
+      "category": "cultural",
+      "description": "Ash Wednesday marks the beginning of Lent, a period of reflection and spiritual preparation observed by many Western Christian traditions.",
+      "details": "Church services commonly include placing ashes on worshippers' foreheads as a symbol of repentance and humility. It falls 46 days before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "st-patricks-day-2030",
+      "name": "St. Patrick's Day",
+      "date": "2030-03-17",
+      "category": "cultural",
+      "description": "St. Patrick's Day celebrates Saint Patrick, the patron saint of Ireland, and Irish culture and heritage.",
+      "details": "In the United States, celebrations often include green clothing, shamrocks, Irish music, parades, and community festivals. It is observed every year on March 17.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "april-fools-day-2030",
+      "name": "April Fools' Day",
+      "date": "2030-04-01",
+      "category": "cultural",
+      "description": "April Fools' Day is a lighthearted occasion associated with practical jokes, playful tricks, and humorous surprises.",
+      "details": "People often play harmless jokes on friends, family, and coworkers. Some newspapers, websites, and companies also publish fictional stories or amusing announcements.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "good-friday-2030",
+      "name": "Good Friday",
+      "date": "2030-04-19",
+      "category": "cultural",
+      "description": "Good Friday is a Christian observance commemorating the crucifixion and death of Jesus Christ.",
+      "details": "Many Christians attend church services, participate in prayer, and observe the day through reflection and fasting. It takes place on the Friday before Easter Sunday.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "easter-2030",
+      "name": "Easter Sunday",
+      "date": "2030-04-21",
+      "category": "cultural",
+      "description": "Easter Sunday is one of the most important Christian celebrations, commemorating the resurrection of Jesus Christ.",
+      "details": "Common American traditions include Easter egg hunts, decorated eggs, family meals, church services, and gifts from the Easter Bunny. Its date changes every year.",
+      "observanceType": "religious"
+    },
+    {
+      "id": "cinco-de-mayo-2030",
+      "name": "Cinco de Mayo",
+      "date": "2030-05-05",
+      "category": "cultural",
+      "description": "Cinco de Mayo commemorates the Mexican victory over French forces at the Battle of Puebla in 1862.",
+      "details": "In the United States, the day is widely associated with Mexican-American culture, music, food, and community celebrations. It is not Mexico's Independence Day.",
+      "observanceType": "cultural"
+    },
+    {
+      "id": "mothers-day-2030",
+      "name": "Mother's Day",
+      "date": "2030-05-12",
+      "category": "cultural",
+      "description": "Mother's Day honors mothers and mother figures and recognizes their care, support, and contributions to families.",
+      "details": "Many families celebrate with flowers, greeting cards, gifts, meals, and time together. In the United States, it takes place on the second Sunday of May.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "flag-day-2030",
+      "name": "Flag Day",
+      "date": "2030-06-14",
+      "category": "cultural",
+      "description": "Flag Day commemorates the adoption of the United States flag on June 14, 1777.",
+      "details": "The day recognizes the American flag and its role as a national symbol. People may display flags and participate in patriotic ceremonies and educational activities.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "fathers-day-2030",
+      "name": "Father's Day",
+      "date": "2030-06-16",
+      "category": "cultural",
+      "description": "Father's Day celebrates fathers and father figures and recognizes their role in family life.",
+      "details": "Families often celebrate with gifts, greeting cards, meals, outdoor activities, and time together. In the United States, it is observed on the third Sunday of June.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "pride-month-2030",
+      "name": "Pride Month",
+      "date": "2030-06-01",
+      "endDate": "2030-06-30",
+      "category": "cultural",
+      "description": "Pride Month recognizes LGBTQ+ communities, their history, achievements, and continued efforts toward equality and acceptance.",
+      "details": "Celebrations across the United States include Pride parades, community events, educational programs, and cultural gatherings. June is associated with the 1969 Stonewall uprising in New York City.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "national-ice-cream-day-2030",
+      "name": "National Ice Cream Day",
+      "date": "2030-07-21",
+      "category": "cultural",
+      "description": "National Ice Cream Day celebrates one of America's most popular frozen desserts.",
+      "details": "Ice cream shops and food businesses often mark the occasion with special flavors, promotions, and community activities. It is commonly observed on the third Sunday of July.",
+      "observanceType": "informal"
+    },
+    {
+      "id": "parents-day-2030",
+      "name": "National Parents' Day",
+      "date": "2030-07-28",
+      "category": "cultural",
+      "description": "National Parents' Day recognizes parents and guardians for their commitment to raising and supporting children.",
+      "details": "Families may use the day to appreciate parents, spend time together, and recognize the responsibilities involved in raising children. It is observed on the fourth Sunday of July.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "patriot-day-2030",
+      "name": "Patriot Day",
+      "date": "2030-09-11",
+      "category": "cultural",
+      "description": "Patriot Day remembers the victims of the September 11, 2001 terrorist attacks in the United States.",
+      "details": "The day honors those who lost their lives, including passengers, first responders, and people at the World Trade Center and Pentagon. Memorial ceremonies and moments of silence are held across the country.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "grandparents-day-2030",
+      "name": "National Grandparents Day",
+      "date": "2030-09-08",
+      "category": "cultural",
+      "description": "National Grandparents Day celebrates grandparents and recognizes their role in families and communities.",
+      "details": "People often spend time with grandparents, share family stories, exchange cards, and express appreciation. In the United States, it falls on the first Sunday after Labor Day.",
+      "observanceType": "national_observance"
+    },
+    {
+      "id": "hispanic-heritage-month-2030",
+      "name": "National Hispanic Heritage Month",
+      "date": "2030-09-15",
+      "endDate": "2030-10-15",
+      "category": "cultural",
+      "description": "National Hispanic Heritage Month recognizes the histories, cultures, and contributions of Hispanic and Latino Americans.",
+      "details": "The month-long celebration includes cultural festivals, educational programs, music, art, and community events. It begins on September 15, a date connected to the independence anniversaries of several Latin American countries.",
+      "observanceType": "month_long"
+    },
+    {
+      "id": "halloween-2030",
+      "name": "Halloween",
+      "date": "2030-10-31",
+      "category": "cultural",
+      "description": "Halloween is a popular celebration associated with costumes, spooky decorations, and trick-or-treating.",
+      "details": "Children often dress up and visit homes to collect candy, while families and communities organize parties, pumpkin carving, haunted attractions, and themed events. It is celebrated every year on October 31.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "day-of-the-dead-2030",
+      "name": "Día de los Muertos",
+      "date": "2030-11-01",
+      "endDate": "2030-11-02",
+      "category": "cultural",
+      "description": "Día de los Muertos, or Day of the Dead, is a Mexican tradition that honors deceased family members and loved ones.",
+      "details": "Families create colorful altars called ofrendas, decorate with marigolds, share food, and remember those who have passed away. The tradition is also celebrated by Mexican-American communities in the United States.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "black-friday-2030",
+      "name": "Black Friday",
+      "date": "2030-11-29",
+      "category": "cultural",
+      "description": "Black Friday is a major shopping day in the United States, traditionally taking place the day after Thanksgiving.",
+      "details": "Retailers offer significant discounts on electronics, clothing, household products, and other goods. It is widely considered the beginning of the holiday shopping season.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "small-business-saturday-2030",
+      "name": "Small Business Saturday",
+      "date": "2030-11-30",
+      "category": "cultural",
+      "description": "Small Business Saturday encourages people to support independently owned local businesses.",
+      "details": "Customers are encouraged to shop at neighborhood stores, restaurants, and other small businesses. It takes place on the Saturday after Thanksgiving.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "cyber-monday-2030",
+      "name": "Cyber Monday",
+      "date": "2030-12-02",
+      "category": "cultural",
+      "description": "Cyber Monday is a major online shopping event held on the Monday after Thanksgiving.",
+      "details": "Online retailers commonly offer special promotions and discounts, particularly on electronics, clothing, and other popular products.",
+      "observanceType": "commercial"
+    },
+    {
+      "id": "giving-tuesday-2030",
+      "name": "Giving Tuesday",
+      "date": "2030-12-03",
+      "category": "cultural",
+      "description": "Giving Tuesday is a global generosity movement that encourages people to support charitable causes and help their communities.",
+      "details": "People participate by donating money, volunteering, supporting nonprofits, and helping individuals in need. It takes place on the Tuesday after Thanksgiving.",
+      "observanceType": "charitable"
+    },
+    {
+      "id": "christmas-eve-2030",
+      "name": "Christmas Eve",
+      "date": "2030-12-24",
+      "category": "cultural",
+      "description": "Christmas Eve is the evening before Christmas Day and an important part of the Christmas celebration.",
+      "details": "Many families decorate their homes, exchange gifts, attend church services, prepare festive meals, and gather with loved ones. Some traditions include leaving cookies for Santa Claus.",
+      "observanceType": "popular"
+    },
+    {
+      "id": "kwanzaa-2030",
+      "name": "Kwanzaa",
+      "date": "2030-12-26",
+      "endDate": "2031-01-01",
+      "category": "cultural",
+      "description": "Kwanzaa is a week-long cultural celebration honoring African heritage, community, family, and shared values.",
+      "details": "The celebration was created in 1966 and is observed from December 26 through January 1. Each day focuses on one of seven principles, including unity, self-determination, collective work, and creativity.",
+      "observanceType": "cultural_festival"
+    },
+    {
+      "id": "new-years-eve-2030",
+      "name": "New Year's Eve",
+      "date": "2030-12-31",
+      "category": "cultural",
+      "description": "New Year's Eve marks the final day of the calendar year and the transition into a new year.",
+      "details": "People celebrate with countdowns, fireworks, parties, and gatherings. In New York City, the Times Square Ball Drop is one of the country's best-known New Year's Eve traditions.",
+      "observanceType": "popular"
+    }
+  ]

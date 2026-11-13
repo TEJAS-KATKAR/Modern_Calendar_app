@@ -1,0 +1,341 @@
+[
+    {
+      "id": "solar-eclipse-2026-feb",
+      "name": "Annular Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2026-02-17",
+      "eclipseType": "annular",
+      "description": "An annular solar eclipse occurs when the Moon passes between Earth and the Sun but appears too small to cover the Sun completely.",
+      "details": "A bright ring of sunlight remains visible around the Moon, creating the appearance known as the Ring of Fire. This eclipse is primarily visible from Antarctica and surrounding regions.",
+      "visibility": "Antarctica and surrounding ocean regions"
+    },
+    {
+      "id": "lunar-eclipse-2026-mar",
+      "name": "Total Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2026-03-03",
+      "eclipseType": "total",
+      "description": "A total lunar eclipse occurs when Earth moves directly between the Sun and the Moon, causing Earth's shadow to cover the entire Moon.",
+      "details": "The Moon can take on a reddish or copper color as sunlight passes through Earth's atmosphere and reaches its surface. This appearance is commonly called a Blood Moon.",
+      "visibility": "East Asia, Australia, the Pacific and the Americas"
+    },
+    {
+      "id": "solar-eclipse-2026-aug",
+      "name": "Total Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2026-08-12",
+      "eclipseType": "total",
+      "description": "A total solar eclipse occurs when the Moon completely blocks the Sun for observers along a narrow path on Earth.",
+      "details": "During totality, the Sun's outer atmosphere, called the corona, becomes visible. The path of totality crosses Greenland, Iceland and parts of Spain, with a partial eclipse visible across much of Europe.",
+      "visibility": "Greenland, Iceland, Spain and nearby regions"
+    },
+    {
+      "id": "lunar-eclipse-2026-aug",
+      "name": "Partial Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2026-08-28",
+      "eclipseType": "partial",
+      "description": "A partial lunar eclipse occurs when only part of the Moon passes through Earth's dark central shadow.",
+      "details": "A noticeable dark shadow gradually covers a portion of the Moon before moving away. The remaining visible portion continues to appear illuminated.",
+      "visibility": "Americas, Europe and Africa"
+    },
+    {
+      "id": "solar-eclipse-2027-feb",
+      "name": "Annular Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2027-02-06",
+      "eclipseType": "annular",
+      "description": "The Moon passes between Earth and the Sun but appears too small to cover the Sun completely.",
+      "details": "Observers along the central path can see a bright ring of sunlight surrounding the Moon. This phenomenon is also known as the Ring of Fire.",
+      "visibility": "Parts of South America and southern Africa"
+    },
+    {
+      "id": "lunar-eclipse-2027-feb",
+      "name": "Penumbral Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2027-02-20",
+      "eclipseType": "penumbral",
+      "description": "A penumbral lunar eclipse occurs when the Moon passes through the faint outer part of Earth's shadow.",
+      "details": "The Moon becomes slightly darker than usual, although the change can be difficult to notice without careful observation.",
+      "visibility": "Americas, Europe, Africa, Asia and Australia"
+    },
+    {
+      "id": "lunar-eclipse-2027-jul",
+      "name": "Penumbral Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2027-07-18",
+      "eclipseType": "penumbral",
+      "description": "The Moon moves through the faint outer region of Earth's shadow.",
+      "details": "A subtle reduction in the Moon's brightness occurs during this eclipse. Penumbral eclipses are generally less dramatic than partial or total lunar eclipses.",
+      "visibility": "Eastern Africa, Asia, Australia and the Pacific"
+    },
+    {
+      "id": "solar-eclipse-2027-aug",
+      "name": "Total Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2027-08-02",
+      "eclipseType": "total",
+      "description": "The Moon completely covers the Sun along a narrow path across Earth's surface.",
+      "details": "The path of totality crosses parts of southern Europe, North Africa and the Middle East. The eclipse will be especially notable in Egypt, where totality will last several minutes in some locations.",
+      "visibility": "Spain, North Africa and parts of the Middle East"
+    },
+    {
+      "id": "lunar-eclipse-2027-aug",
+      "name": "Penumbral Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2027-08-17",
+      "eclipseType": "penumbral",
+      "description": "The Moon passes through Earth's faint outer shadow, producing a subtle lunar eclipse.",
+      "details": "The Moon's brightness decreases slightly as it moves through the penumbra. The effect is usually much less noticeable than a partial or total lunar eclipse.",
+      "visibility": "Pacific, the Americas and parts of Asia"
+    },
+    {
+      "id": "lunar-eclipse-2028-jan",
+      "name": "Partial Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2028-01-12",
+      "eclipseType": "partial",
+      "description": "A partial lunar eclipse occurs when part of the Moon enters Earth's dark central shadow.",
+      "details": "A dark section gradually covers part of the lunar surface before the Moon moves out of Earth's shadow.",
+      "visibility": "Americas, Europe and Africa"
+    },
+    {
+      "id": "solar-eclipse-2028-jan",
+      "name": "Annular Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2028-01-26",
+      "eclipseType": "annular",
+      "description": "The Moon passes in front of the Sun while appearing slightly smaller, leaving a bright ring visible around it.",
+      "details": "This annular eclipse creates the Ring of Fire effect along its path. Its visibility is concentrated over parts of South America and the Atlantic region.",
+      "visibility": "Parts of South America and the Atlantic"
+    },
+    {
+      "id": "lunar-eclipse-2028-jul",
+      "name": "Partial Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2028-07-06",
+      "eclipseType": "partial",
+      "description": "Part of the Moon passes through Earth's dark central shadow.",
+      "details": "The Earth's shadow covers a section of the lunar surface, creating a visible dark region against the illuminated Moon.",
+      "visibility": "Europe, Africa, Asia and Australia"
+    },
+    {
+      "id": "solar-eclipse-2028-jul",
+      "name": "Total Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2028-07-22",
+      "eclipseType": "total",
+      "description": "The Moon completely blocks the Sun along a narrow path on Earth.",
+      "details": "Observers within the path of totality can briefly see the Sun's corona. The eclipse path crosses parts of Australia and the surrounding Pacific region.",
+      "visibility": "Parts of Australia and the Pacific"
+    },
+    {
+      "id": "lunar-eclipse-2028-dec",
+      "name": "Total Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2028-12-31",
+      "eclipseType": "total",
+      "description": "Earth's shadow completely covers the Moon during this total lunar eclipse.",
+      "details": "The Moon can appear deep red or copper-colored during totality. Its occurrence on December 31 makes it an unusual astronomical event at the end of the year.",
+      "visibility": "Europe, Africa, Asia, Australia and the Pacific"
+    },
+    {
+      "id": "solar-eclipse-2029-jan",
+      "name": "Partial Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2029-01-14",
+      "eclipseType": "partial",
+      "description": "The Moon covers only a portion of the Sun as viewed from certain locations on Earth.",
+      "details": "Unlike a total eclipse, the Sun is never completely hidden. The amount of the Sun covered depends on the observer's location.",
+      "visibility": "Limited regions; visibility depends on location"
+    },
+    {
+      "id": "solar-eclipse-2029-jun",
+      "name": "Partial Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2029-06-12",
+      "eclipseType": "partial",
+      "description": "The Moon passes between Earth and the Sun, covering a small portion of the solar disk.",
+      "details": "This partial eclipse is a limited-visibility event. The Sun remains visible throughout the eclipse.",
+      "visibility": "Limited northern regions"
+    },
+    {
+      "id": "lunar-eclipse-2029-jun",
+      "name": "Total Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2029-06-26",
+      "eclipseType": "total",
+      "description": "Earth moves directly between the Sun and Moon, allowing its shadow to completely cover the Moon.",
+      "details": "During totality, the Moon may appear reddish because Earth's atmosphere bends and filters sunlight into its shadow.",
+      "visibility": "Americas, Europe, Africa and the Middle East"
+    },
+    {
+      "id": "solar-eclipse-2029-jul",
+      "name": "Partial Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2029-07-11",
+      "eclipseType": "partial",
+      "description": "The Moon partially covers the Sun from certain viewing locations on Earth.",
+      "details": "Only a small portion of the Sun is obscured. The event is not visible from every location, so local visibility must be checked.",
+      "visibility": "Limited southern regions"
+    },
+    {
+      "id": "solar-eclipse-2029-dec",
+      "name": "Partial Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2029-12-05",
+      "eclipseType": "partial",
+      "description": "The Moon passes across part of the Sun, creating a partial solar eclipse.",
+      "details": "The eclipse does not produce total darkness because the Moon never completely covers the Sun.",
+      "visibility": "Limited southern regions"
+    },
+    {
+      "id": "lunar-eclipse-2029-dec",
+      "name": "Total Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2029-12-20",
+      "eclipseType": "total",
+      "description": "The Moon passes completely into Earth's dark central shadow.",
+      "details": "The Moon can take on a reddish appearance during totality. The eclipse is visible across several continents.",
+      "visibility": "Americas, Europe, Africa and Asia"
+    },
+    {
+      "id": "solar-eclipse-2030-jun",
+      "name": "Annular Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2030-06-01",
+      "eclipseType": "annular",
+      "description": "The Moon passes in front of the Sun but appears too small to cover it completely.",
+      "details": "A bright ring of sunlight remains visible around the Moon along the central path of the eclipse.",
+      "visibility": "Parts of Europe, North Africa and Asia"
+    },
+    {
+      "id": "lunar-eclipse-2030-jun",
+      "name": "Partial Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2030-06-15",
+      "eclipseType": "partial",
+      "description": "Part of the Moon enters Earth's dark central shadow.",
+      "details": "A section of the Moon appears darkened as Earth's shadow moves across its surface.",
+      "visibility": "Europe, Africa, Asia and Australia"
+    },
+    {
+      "id": "solar-eclipse-2030-nov",
+      "name": "Total Solar Eclipse",
+      "type": "solar_eclipse",
+      "date": "2030-11-25",
+      "eclipseType": "total",
+      "description": "The Moon completely covers the Sun along a narrow path on Earth.",
+      "details": "During totality, the Sun's corona becomes visible around the dark silhouette of the Moon.",
+      "visibility": "Parts of southern Africa and Australia"
+    },
+    {
+      "id": "lunar-eclipse-2030-dec",
+      "name": "Penumbral Lunar Eclipse",
+      "type": "lunar_eclipse",
+      "date": "2030-12-09",
+      "eclipseType": "penumbral",
+      "description": "The Moon passes through the faint outer part of Earth's shadow.",
+      "details": "The Moon becomes slightly dimmer, although the effect may be difficult to notice with the naked eye.",
+      "visibility": "Americas, Europe, Africa and Asia"
+    },
+    {
+      "id": "quadrantids",
+      "name": "Quadrantids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "12-28",
+      "activeTo": "01-12",
+      "peakDate": "01-03",
+      "description": "The Quadrantids are a strong annual meteor shower known for producing bright meteors and occasional fireballs.",
+      "details": "The shower has a short, intense peak that can produce many meteors in a relatively brief period. It is best observed from the Northern Hemisphere, particularly during the hours before dawn."
+    },
+    {
+      "id": "lyrids",
+      "name": "Lyrids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "04-14",
+      "activeTo": "04-30",
+      "peakDate": "04-22",
+      "description": "The Lyrids are an annual meteor shower that can produce fast, bright meteors and occasional fireballs.",
+      "details": "The shower is associated with Comet C/1861 G1 Thatcher. It is best observed during the late-night and early-morning hours, especially from locations with dark skies."
+    },
+    {
+      "id": "eta-aquariids",
+      "name": "Eta Aquariids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "04-19",
+      "activeTo": "05-28",
+      "peakDate": "05-06",
+      "description": "The Eta Aquariids are an annual meteor shower produced by debris from Halley's Comet.",
+      "details": "The shower is particularly active in the Southern Hemisphere and tropical regions. In the United States, the best viewing opportunities are generally before dawn, when the radiant is higher in the sky."
+    },
+    {
+      "id": "southern-delta-aquariids",
+      "name": "Southern Delta Aquariids",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "07-12",
+      "activeTo": "08-23",
+      "peakDate": "07-30",
+      "description": "The Southern Delta Aquariids are a summer meteor shower that usually produces a steady display of faint meteors.",
+      "details": "The shower is best viewed from the Southern Hemisphere, although it can also be observed from southern parts of the United States. Dark skies and patience improve the viewing experience."
+    },
+    {
+      "id": "perseids",
+      "name": "Perseids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "07-17",
+      "activeTo": "08-24",
+      "peakDate": "08-12",
+      "description": "The Perseids are among the most popular and reliable meteor showers of the year.",
+      "details": "Produced by debris from Comet Swift-Tuttle, the Perseids can create bright meteors and occasional fireballs. They are especially well suited to observers in the Northern Hemisphere, with viewing usually best after midnight."
+    },
+    {
+      "id": "orionids",
+      "name": "Orionids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "10-02",
+      "activeTo": "11-07",
+      "peakDate": "10-21",
+      "description": "The Orionids are a meteor shower associated with debris from Halley's Comet.",
+      "details": "Orionid meteors are often fast and can leave glowing trails. The shower is generally best observed after midnight, when the Orion constellation rises higher in the sky."
+    },
+    {
+      "id": "leonids",
+      "name": "Leonids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "11-06",
+      "activeTo": "11-30",
+      "peakDate": "11-17",
+      "description": "The Leonids are an annual meteor shower known for occasional spectacular meteor storms.",
+      "details": "The shower is produced by dust from Comet Tempel-Tuttle. Most years offer modest activity, but certain years can produce unusually high meteor rates."
+    },
+    {
+      "id": "geminids",
+      "name": "Geminids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "12-04",
+      "activeTo": "12-17",
+      "peakDate": "12-14",
+      "description": "The Geminids are usually the strongest and most dependable annual meteor shower.",
+      "details": "Unlike most meteor showers, the Geminids originate from the asteroid 3200 Phaethon. They often produce bright, colorful meteors and can be observed before midnight as well as during the early morning."
+    },
+    {
+      "id": "ursids",
+      "name": "Ursids Meteor Shower",
+      "type": "meteor_shower",
+      "recurrence": "yearly",
+      "activeFrom": "12-17",
+      "activeTo": "12-26",
+      "peakDate": "12-22",
+      "description": "The Ursids are a smaller annual meteor shower that occurs shortly before Christmas.",
+      "details": "The shower is best observed from the Northern Hemisphere. Its usual activity is modest, but occasional outbursts can produce more meteors than expected."
+    }
+  ]

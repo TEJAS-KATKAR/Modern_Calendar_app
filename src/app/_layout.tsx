@@ -1,18 +1,38 @@
-import { DarkTheme, DefaultTheme, ThemeProvider } from 'expo-router';
-import * as SplashScreen from 'expo-splash-screen';
-import { useColorScheme } from 'react-native';
+import { Stack } from "expo-router";
+import { SafeAreaProvider, useSafeAreaInsets } from "react-native-safe-area-context";
+import { GestureHandlerRootView } from "react-native-gesture-handler";
+import { View } from "react-native";
+import BottomNavigation from "../components/Navigation/BottomNavigation";
+import { EventPreferencesProvider } from "../context/EventPreferencesContext";
 
-import { AnimatedSplashOverlay } from '@/components/animated-icon';
-import AppTabs from '@/components/app-tabs';
+import "../../global.css";
 
-SplashScreen.preventAutoHideAsync();
+function AppNavigator() {
+    const insets = useSafeAreaInsets();
 
-export default function TabLayout() {
-  const colorScheme = useColorScheme();
-  return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <AnimatedSplashOverlay />
-      <AppTabs />
-    </ThemeProvider>
-  );
+    return (
+        <View style={{ flex: 1 }}>
+            <Stack
+                screenOptions={{
+                    headerShown: false,
+                    animation: "fade",
+                }}
+            />
+            <View style={{ paddingBottom: Math.max(insets.bottom, 10) }}>
+                <BottomNavigation />
+            </View>
+        </View>
+    );
+}
+
+export default function RootLayout() {
+    return (
+        <GestureHandlerRootView style={{ flex: 1 }}>
+            <SafeAreaProvider>
+                <EventPreferencesProvider>
+                    <AppNavigator />
+                </EventPreferencesProvider>
+            </SafeAreaProvider>
+        </GestureHandlerRootView>
+    );
 }

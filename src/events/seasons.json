@@ -1,0 +1,202 @@
+[
+    {
+      "id": "spring-2026",
+      "name": "Spring Begins",
+      "season": "spring",
+      "type": "march_equinox",
+      "year": 2026,
+      "startsAtUtc": "2026-03-20T14:46:00Z",
+      "description": "Astronomical spring begins with the March equinox. The Sun crosses the celestial equator, and daylight and nighttime are nearly equal in length.",
+      "details": "As the Northern Hemisphere moves into spring, days gradually become longer and temperatures generally begin to rise. Plants start growing, flowers bloom, and many animals become more active."
+    },
+    {
+      "id": "summer-2026",
+      "name": "Summer Begins",
+      "season": "summer",
+      "type": "june_solstice",
+      "year": 2026,
+      "startsAtUtc": "2026-06-21T08:24:00Z",
+      "description": "Astronomical summer begins with the June solstice, when the Northern Hemisphere receives its longest period of daylight of the year.",
+      "details": "The Sun reaches its highest apparent position in the sky at midday. After the solstice, daylight gradually becomes shorter, although summer weather typically continues for several months."
+    },
+    {
+      "id": "autumn-2026",
+      "name": "Autumn Begins",
+      "season": "autumn",
+      "type": "september_equinox",
+      "year": 2026,
+      "startsAtUtc": "2026-09-23T00:05:00Z",
+      "description": "Astronomical autumn begins with the September equinox, when the Sun crosses the celestial equator moving southward.",
+      "details": "Daylight gradually decreases across the Northern Hemisphere. Temperatures generally begin to cool, and many trees change color before shedding their leaves."
+    },
+    {
+      "id": "winter-2026",
+      "name": "Winter Begins",
+      "season": "winter",
+      "type": "december_solstice",
+      "year": 2026,
+      "startsAtUtc": "2026-12-21T20:50:00Z",
+      "description": "Astronomical winter begins with the December solstice, which brings the shortest day and longest night of the year in the Northern Hemisphere.",
+      "details": "The Sun reaches its lowest apparent midday position in the sky. After the solstice, daylight gradually increases, even though cold winter weather continues."
+    },
+    {
+      "id": "spring-2027",
+      "name": "Spring Begins",
+      "season": "spring",
+      "type": "march_equinox",
+      "year": 2027,
+      "startsAtUtc": "2027-03-20T20:25:00Z",
+      "description": "Astronomical spring begins with the March equinox. The Sun crosses the celestial equator, and daylight and nighttime are nearly equal in length.",
+      "details": "Days gradually become longer and temperatures generally begin to rise. Plants start growing, flowers bloom, and many animals become more active."
+    },
+    {
+      "id": "summer-2027",
+      "name": "Summer Begins",
+      "season": "summer",
+      "type": "june_solstice",
+      "year": 2027,
+      "startsAtUtc": "2027-06-21T14:11:00Z",
+      "description": "Astronomical summer begins with the June solstice, when the Northern Hemisphere receives its longest period of daylight of the year.",
+      "details": "The Sun reaches its highest apparent position in the sky at midday. After the solstice, daylight gradually becomes shorter, although summer weather typically continues for several months."
+    },
+    {
+      "id": "autumn-2027",
+      "name": "Autumn Begins",
+      "season": "autumn",
+      "type": "september_equinox",
+      "year": 2027,
+      "startsAtUtc": "2027-09-23T06:02:00Z",
+      "description": "Astronomical autumn begins with the September equinox, when the Sun crosses the celestial equator moving southward.",
+      "details": "Daylight gradually decreases across the Northern Hemisphere. Temperatures generally begin to cool, and many trees change color before shedding their leaves."
+    },
+    {
+      "id": "winter-2027",
+      "name": "Winter Begins",
+      "season": "winter",
+      "type": "december_solstice",
+      "year": 2027,
+      "startsAtUtc": "2027-12-22T02:42:00Z",
+      "description": "Astronomical winter begins with the December solstice, which brings the shortest day and longest night of the year in the Northern Hemisphere.",
+      "details": "The Sun reaches its lowest apparent midday position in the sky. After the solstice, daylight gradually increases, even though cold winter weather continues."
+    },
+    {
+      "id": "spring-2028",
+      "name": "Spring Begins",
+      "season": "spring",
+      "type": "march_equinox",
+      "year": 2028,
+      "startsAtUtc": "2028-03-20T02:17:00Z",
+      "description": "Astronomical spring begins with the March equinox. The Sun crosses the celestial equator, and daylight and nighttime are nearly equal in length.",
+      "details": "Days gradually become longer and temperatures generally begin to rise. Plants start growing, flowers bloom, and many animals become more active."
+    },
+    {
+      "id": "summer-2028",
+      "name": "Summer Begins",
+      "season": "summer",
+      "type": "june_solstice",
+      "year": 2028,
+      "startsAtUtc": "2028-06-20T20:02:00Z",
+      "description": "Astronomical summer begins with the June solstice, when the Northern Hemisphere receives its longest period of daylight of the year.",
+      "details": "The Sun reaches its highest apparent position in the sky at midday. After the solstice, daylight gradually becomes shorter, although summer weather typically continues for several months."
+    },
+    {
+      "id": "autumn-2028",
+      "name": "Autumn Begins",
+      "season": "autumn",
+      "type": "september_equinox",
+      "year": 2028,
+      "startsAtUtc": "2028-09-22T11:45:00Z",
+      "description": "Astronomical autumn begins with the September equinox, when the Sun crosses the celestial equator moving southward.",
+      "details": "Daylight gradually decreases across the Northern Hemisphere. Temperatures generally begin to cool, and many trees change color before shedding their leaves."
+    },
+    {
+      "id": "winter-2028",
+      "name": "Winter Begins",
+      "season": "winter",
+      "type": "december_solstice",
+      "year": 2028,
+      "startsAtUtc": "2028-12-21T08:19:00Z",
+      "description": "Astronomical winter begins with the December solstice, which brings the shortest day and longest night of the year in the Northern Hemisphere.",
+      "details": "The Sun reaches its lowest apparent midday position in the sky. After the solstice, daylight gradually increases, even though cold winter weather continues."
+    },
+    {
+      "id": "spring-2029",
+      "name": "Spring Begins",
+      "season": "spring",
+      "type": "march_equinox",
+      "year": 2029,
+      "startsAtUtc": "2029-03-20T08:02:00Z",
+      "description": "Astronomical spring begins with the March equinox. The Sun crosses the celestial equator, and daylight and nighttime are nearly equal in length.",
+      "details": "Days gradually become longer and temperatures generally begin to rise. Plants start growing, flowers bloom, and many animals become more active."
+    },
+    {
+      "id": "summer-2029",
+      "name": "Summer Begins",
+      "season": "summer",
+      "type": "june_solstice",
+      "year": 2029,
+      "startsAtUtc": "2029-06-21T01:48:00Z",
+      "description": "Astronomical summer begins with the June solstice, when the Northern Hemisphere receives its longest period of daylight of the year.",
+      "details": "The Sun reaches its highest apparent position in the sky at midday. After the solstice, daylight gradually becomes shorter, although summer weather typically continues for several months."
+    },
+    {
+      "id": "autumn-2029",
+      "name": "Autumn Begins",
+      "season": "autumn",
+      "type": "september_equinox",
+      "year": 2029,
+      "startsAtUtc": "2029-09-22T17:38:00Z",
+      "description": "Astronomical autumn begins with the September equinox, when the Sun crosses the celestial equator moving southward.",
+      "details": "Daylight gradually decreases across the Northern Hemisphere. Temperatures generally begin to cool, and many trees change color before shedding their leaves."
+    },
+    {
+      "id": "winter-2029",
+      "name": "Winter Begins",
+      "season": "winter",
+      "type": "december_solstice",
+      "year": 2029,
+      "startsAtUtc": "2029-12-21T14:14:00Z",
+      "description": "Astronomical winter begins with the December solstice, which brings the shortest day and longest night of the year in the Northern Hemisphere.",
+      "details": "The Sun reaches its lowest apparent midday position in the sky. After the solstice, daylight gradually increases, even though cold winter weather continues."
+    },
+    {
+      "id": "spring-2030",
+      "name": "Spring Begins",
+      "season": "spring",
+      "type": "march_equinox",
+      "year": 2030,
+      "startsAtUtc": "2030-03-20T13:52:00Z",
+      "description": "Astronomical spring begins with the March equinox. The Sun crosses the celestial equator, and daylight and nighttime are nearly equal in length.",
+      "details": "Days gradually become longer and temperatures generally begin to rise. Plants start growing, flowers bloom, and many animals become more active."
+    },
+    {
+      "id": "summer-2030",
+      "name": "Summer Begins",
+      "season": "summer",
+      "type": "june_solstice",
+      "year": 2030,
+      "startsAtUtc": "2030-06-21T07:31:00Z",
+      "description": "Astronomical summer begins with the June solstice, when the Northern Hemisphere receives its longest period of daylight of the year.",
+      "details": "The Sun reaches its highest apparent position in the sky at midday. After the solstice, daylight gradually becomes shorter, although summer weather typically continues for several months."
+    },
+    {
+      "id": "autumn-2030",
+      "name": "Autumn Begins",
+      "season": "autumn",
+      "type": "september_equinox",
+      "year": 2030,
+      "startsAtUtc": "2030-09-22T23:27:00Z",
+      "description": "Astronomical autumn begins with the September equinox, when the Sun crosses the celestial equator moving southward.",
+      "details": "Daylight gradually decreases across the Northern Hemisphere. Temperatures generally begin to cool, and many trees change color before shedding their leaves."
+    },
+    {
+      "id": "winter-2030",
+      "name": "Winter Begins",
+      "season": "winter",
+      "type": "december_solstice",
+      "year": 2030,
+      "startsAtUtc": "2030-12-21T20:09:00Z",
+      "description": "Astronomical winter begins with the December solstice, which brings the shortest day and longest night of the year in the Northern Hemisphere.",
+      "details": "The Sun reaches its lowest apparent midday position in the sky. After the solstice, daylight gradually increases, even though cold winter weather continues."
+    }
+  ]

@@ -1,0 +1,556 @@
+[
+    {
+      "id": "new-year-2026",
+      "name": "New Year's Day",
+      "date": "2026-01-01",
+      "actualDate": "2026-01-01",
+      "category": "federal_holiday",
+      "description": "New Year's Day marks the beginning of a new calendar year. It is traditionally celebrated with fireworks, countdowns, parties, and gatherings with family and friends.",
+      "details": "January 1 is the first day of the Gregorian calendar. In the United States, it is a federal holiday when government offices close and many businesses operate on reduced hours.",
+      "isObservedDate": false
+    },
+    {
+      "id": "mlk-day-2026",
+      "name": "Martin Luther King Jr. Day",
+      "date": "2026-01-19",
+      "actualDate": "2026-01-19",
+      "category": "federal_holiday",
+      "description": "Martin Luther King Jr. Day honors the life and legacy of Dr. Martin Luther King Jr., a major leader of the American civil rights movement.",
+      "details": "Dr. King advocated nonviolent protest and equal rights for African Americans. The day is also recognized as a National Day of Service, encouraging people to volunteer and help their communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "washington-birthday-2026",
+      "name": "Washington's Birthday",
+      "date": "2026-02-16",
+      "actualDate": "2026-02-16",
+      "category": "federal_holiday",
+      "description": "Washington's Birthday honors George Washington, the first President of the United States and a central figure in the country's founding.",
+      "details": "The holiday is commonly called Presidents Day, although its official federal name remains Washington's Birthday. It is celebrated on the third Monday of February.",
+      "isObservedDate": false
+    },
+    {
+      "id": "memorial-day-2026",
+      "name": "Memorial Day",
+      "date": "2026-05-25",
+      "actualDate": "2026-05-25",
+      "category": "federal_holiday",
+      "description": "Memorial Day honors American military personnel who died while serving in the United States Armed Forces.",
+      "details": "People remember fallen service members through memorial ceremonies, visits to cemeteries, and the placement of flags on graves. It is also commonly considered the unofficial beginning of summer in the United States.",
+      "isObservedDate": false
+    },
+    {
+      "id": "juneteenth-2026",
+      "name": "Juneteenth National Independence Day",
+      "date": "2026-06-19",
+      "actualDate": "2026-06-19",
+      "category": "federal_holiday",
+      "description": "Juneteenth commemorates the end of slavery in the United States, particularly the announcement of freedom to enslaved people in Galveston, Texas, in 1865.",
+      "details": "On June 19, 1865, Union troops arrived in Galveston and announced that enslaved people were free, more than two years after the Emancipation Proclamation. Celebrations often include cultural events, music, food, and educational activities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "independence-day-2026",
+      "name": "Independence Day",
+      "date": "2026-07-03",
+      "actualDate": "2026-07-04",
+      "category": "federal_holiday",
+      "description": "Independence Day celebrates the adoption of the Declaration of Independence on July 4, 1776, when the American colonies declared their independence from Great Britain.",
+      "details": "The holiday is widely celebrated with fireworks, parades, concerts, barbecues, and patriotic displays. In 2026, July 4 falls on Saturday, so the federal holiday is observed on Friday, July 3.",
+      "isObservedDate": true
+    },
+    {
+      "id": "labor-day-2026",
+      "name": "Labor Day",
+      "date": "2026-09-07",
+      "actualDate": "2026-09-07",
+      "category": "federal_holiday",
+      "description": "Labor Day recognizes the contributions and achievements of American workers and the labor movement.",
+      "details": "The holiday celebrates workers' role in building the country's economy and improving working conditions. It is observed on the first Monday of September and is often considered the unofficial end of summer.",
+      "isObservedDate": false
+    },
+    {
+      "id": "columbus-day-2026",
+      "name": "Columbus Day",
+      "date": "2026-10-12",
+      "actualDate": "2026-10-12",
+      "category": "federal_holiday",
+      "description": "Columbus Day commemorates Christopher Columbus's 1492 arrival in the Americas.",
+      "details": "The holiday has a complicated history and is viewed differently across the United States. Some communities celebrate Indigenous Peoples' Day instead, recognizing the histories and cultures of Native American and Indigenous communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "veterans-day-2026",
+      "name": "Veterans Day",
+      "date": "2026-11-11",
+      "actualDate": "2026-11-11",
+      "category": "federal_holiday",
+      "description": "Veterans Day honors all people who have served in the United States Armed Forces, including living and deceased veterans.",
+      "details": "The date originally marked the end of World War I, when the armistice took effect on November 11, 1918. Today, ceremonies, parades, and recognition events are held to thank military veterans for their service.",
+      "isObservedDate": false
+    },
+    {
+      "id": "thanksgiving-2026",
+      "name": "Thanksgiving Day",
+      "date": "2026-11-26",
+      "actualDate": "2026-11-26",
+      "category": "federal_holiday",
+      "description": "Thanksgiving is a national holiday centered on gratitude, family gatherings, and sharing a special meal.",
+      "details": "Many American families celebrate with roast turkey, stuffing, mashed potatoes, pumpkin pie, and other traditional dishes. It is observed on the fourth Thursday of November and is followed by the major shopping day known as Black Friday.",
+      "isObservedDate": false
+    },
+    {
+      "id": "christmas-2026",
+      "name": "Christmas Day",
+      "date": "2026-12-25",
+      "actualDate": "2026-12-25",
+      "category": "federal_holiday",
+      "description": "Christmas Day is a Christian holiday celebrating the birth of Jesus Christ. It is also widely celebrated as a cultural holiday throughout the United States.",
+      "details": "Common traditions include decorating Christmas trees, exchanging gifts, displaying lights, attending religious services, and gathering with family. December 25 is a federal holiday.",
+      "isObservedDate": false
+    },
+  
+    {
+      "id": "new-year-2027",
+      "name": "New Year's Day",
+      "date": "2027-01-01",
+      "actualDate": "2027-01-01",
+      "category": "federal_holiday",
+      "description": "New Year's Day marks the beginning of a new calendar year. It is traditionally celebrated with fireworks, countdowns, parties, and gatherings with family and friends.",
+      "details": "January 1 is the first day of the Gregorian calendar. In the United States, it is a federal holiday when government offices close and many businesses operate on reduced hours.",
+      "isObservedDate": false
+    },
+    {
+      "id": "mlk-day-2027",
+      "name": "Martin Luther King Jr. Day",
+      "date": "2027-01-18",
+      "actualDate": "2027-01-18",
+      "category": "federal_holiday",
+      "description": "Martin Luther King Jr. Day honors the life and legacy of Dr. Martin Luther King Jr., a major leader of the American civil rights movement.",
+      "details": "Dr. King advocated nonviolent protest and equal rights for African Americans. The day is also recognized as a National Day of Service, encouraging people to volunteer and help their communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "washington-birthday-2027",
+      "name": "Washington's Birthday",
+      "date": "2027-02-15",
+      "actualDate": "2027-02-15",
+      "category": "federal_holiday",
+      "description": "Washington's Birthday honors George Washington, the first President of the United States and a central figure in the country's founding.",
+      "details": "The holiday is commonly called Presidents Day, although its official federal name remains Washington's Birthday. It is celebrated on the third Monday of February.",
+      "isObservedDate": false
+    },
+    {
+      "id": "memorial-day-2027",
+      "name": "Memorial Day",
+      "date": "2027-05-31",
+      "actualDate": "2027-05-31",
+      "category": "federal_holiday",
+      "description": "Memorial Day honors American military personnel who died while serving in the United States Armed Forces.",
+      "details": "People remember fallen service members through memorial ceremonies, visits to cemeteries, and the placement of flags on graves. It is also commonly considered the unofficial beginning of summer in the United States.",
+      "isObservedDate": false
+    },
+    {
+      "id": "juneteenth-2027",
+      "name": "Juneteenth National Independence Day",
+      "date": "2027-06-18",
+      "actualDate": "2027-06-19",
+      "category": "federal_holiday",
+      "description": "Juneteenth commemorates the end of slavery in the United States, particularly the announcement of freedom to enslaved people in Galveston, Texas, in 1865.",
+      "details": "On June 19, 1865, Union troops arrived in Galveston and announced that enslaved people were free, more than two years after the Emancipation Proclamation. Celebrations often include cultural events, music, food, and educational activities.",
+      "isObservedDate": true
+    },
+    {
+      "id": "independence-day-2027",
+      "name": "Independence Day",
+      "date": "2027-07-05",
+      "actualDate": "2027-07-04",
+      "category": "federal_holiday",
+      "description": "Independence Day celebrates the adoption of the Declaration of Independence on July 4, 1776, when the American colonies declared their independence from Great Britain.",
+      "details": "The holiday is widely celebrated with fireworks, parades, concerts, barbecues, and patriotic displays. In 2027, July 4 falls on Sunday, so the federal holiday is observed on Monday, July 5.",
+      "isObservedDate": true
+    },
+    {
+      "id": "labor-day-2027",
+      "name": "Labor Day",
+      "date": "2027-09-06",
+      "actualDate": "2027-09-06",
+      "category": "federal_holiday",
+      "description": "Labor Day recognizes the contributions and achievements of American workers and the labor movement.",
+      "details": "The holiday celebrates workers' role in building the country's economy and improving working conditions. It is observed on the first Monday of September and is often considered the unofficial end of summer.",
+      "isObservedDate": false
+    },
+    {
+      "id": "columbus-day-2027",
+      "name": "Columbus Day",
+      "date": "2027-10-11",
+      "actualDate": "2027-10-11",
+      "category": "federal_holiday",
+      "description": "Columbus Day commemorates Christopher Columbus's 1492 arrival in the Americas.",
+      "details": "The holiday has a complicated history and is viewed differently across the United States. Some communities celebrate Indigenous Peoples' Day instead, recognizing the histories and cultures of Native American and Indigenous communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "veterans-day-2027",
+      "name": "Veterans Day",
+      "date": "2027-11-11",
+      "actualDate": "2027-11-11",
+      "category": "federal_holiday",
+      "description": "Veterans Day honors all people who have served in the United States Armed Forces, including living and deceased veterans.",
+      "details": "The date originally marked the end of World War I, when the armistice took effect on November 11, 1918. Today, ceremonies, parades, and recognition events are held to thank military veterans for their service.",
+      "isObservedDate": false
+    },
+    {
+      "id": "thanksgiving-2027",
+      "name": "Thanksgiving Day",
+      "date": "2027-11-25",
+      "actualDate": "2027-11-25",
+      "category": "federal_holiday",
+      "description": "Thanksgiving is a national holiday centered on gratitude, family gatherings, and sharing a special meal.",
+      "details": "Many American families celebrate with roast turkey, stuffing, mashed potatoes, pumpkin pie, and other traditional dishes. It is observed on the fourth Thursday of November and is followed by the major shopping day known as Black Friday.",
+      "isObservedDate": false
+    },
+    {
+      "id": "christmas-2027",
+      "name": "Christmas Day",
+      "date": "2027-12-24",
+      "actualDate": "2027-12-25",
+      "category": "federal_holiday",
+      "description": "Christmas Day is a Christian holiday celebrating the birth of Jesus Christ. It is also widely celebrated as a cultural holiday throughout the United States.",
+      "details": "Common traditions include decorating Christmas trees, exchanging gifts, displaying lights, attending religious services, and gathering with family. In 2027, December 25 falls on Saturday, so the federal holiday is observed on Friday, December 24.",
+      "isObservedDate": true
+    },
+  
+    {
+      "id": "new-year-2028",
+      "name": "New Year's Day",
+      "date": "2027-12-31",
+      "actualDate": "2028-01-01",
+      "category": "federal_holiday",
+      "description": "New Year's Day marks the beginning of a new calendar year. It is traditionally celebrated with fireworks, countdowns, parties, and gatherings with family and friends.",
+      "details": "January 1 is the first day of the Gregorian calendar. In 2028, it falls on Saturday, so the federal holiday is observed on Friday, December 31, 2027.",
+      "isObservedDate": true
+    },
+    {
+      "id": "mlk-day-2028",
+      "name": "Martin Luther King Jr. Day",
+      "date": "2028-01-17",
+      "actualDate": "2028-01-17",
+      "category": "federal_holiday",
+      "description": "Martin Luther King Jr. Day honors the life and legacy of Dr. Martin Luther King Jr., a major leader of the American civil rights movement.",
+      "details": "Dr. King advocated nonviolent protest and equal rights for African Americans. The day is also recognized as a National Day of Service, encouraging people to volunteer and help their communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "washington-birthday-2028",
+      "name": "Washington's Birthday",
+      "date": "2028-02-21",
+      "actualDate": "2028-02-21",
+      "category": "federal_holiday",
+      "description": "Washington's Birthday honors George Washington, the first President of the United States and a central figure in the country's founding.",
+      "details": "The holiday is commonly called Presidents Day, although its official federal name remains Washington's Birthday. It is celebrated on the third Monday of February.",
+      "isObservedDate": false
+    },
+    {
+      "id": "memorial-day-2028",
+      "name": "Memorial Day",
+      "date": "2028-05-29",
+      "actualDate": "2028-05-29",
+      "category": "federal_holiday",
+      "description": "Memorial Day honors American military personnel who died while serving in the United States Armed Forces.",
+      "details": "People remember fallen service members through memorial ceremonies, visits to cemeteries, and the placement of flags on graves. It is also commonly considered the unofficial beginning of summer in the United States.",
+      "isObservedDate": false
+    },
+    {
+      "id": "juneteenth-2028",
+      "name": "Juneteenth National Independence Day",
+      "date": "2028-06-19",
+      "actualDate": "2028-06-19",
+      "category": "federal_holiday",
+      "description": "Juneteenth commemorates the end of slavery in the United States, particularly the announcement of freedom to enslaved people in Galveston, Texas, in 1865.",
+      "details": "On June 19, 1865, Union troops arrived in Galveston and announced that enslaved people were free, more than two years after the Emancipation Proclamation. Celebrations often include cultural events, music, food, and educational activities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "independence-day-2028",
+      "name": "Independence Day",
+      "date": "2028-07-04",
+      "actualDate": "2028-07-04",
+      "category": "federal_holiday",
+      "description": "Independence Day celebrates the adoption of the Declaration of Independence on July 4, 1776, when the American colonies declared their independence from Great Britain.",
+      "details": "The holiday is widely celebrated with fireworks, parades, concerts, barbecues, and patriotic displays.",
+      "isObservedDate": false
+    },
+    {
+      "id": "labor-day-2028",
+      "name": "Labor Day",
+      "date": "2028-09-04",
+      "actualDate": "2028-09-04",
+      "category": "federal_holiday",
+      "description": "Labor Day recognizes the contributions and achievements of American workers and the labor movement.",
+      "details": "The holiday celebrates workers' role in building the country's economy and improving working conditions. It is observed on the first Monday of September and is often considered the unofficial end of summer.",
+      "isObservedDate": false
+    },
+    {
+      "id": "columbus-day-2028",
+      "name": "Columbus Day",
+      "date": "2028-10-09",
+      "actualDate": "2028-10-09",
+      "category": "federal_holiday",
+      "description": "Columbus Day commemorates Christopher Columbus's 1492 arrival in the Americas.",
+      "details": "The holiday has a complicated history and is viewed differently across the United States. Some communities celebrate Indigenous Peoples' Day instead, recognizing the histories and cultures of Native American and Indigenous communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "veterans-day-2028",
+      "name": "Veterans Day",
+      "date": "2028-11-10",
+      "actualDate": "2028-11-11",
+      "category": "federal_holiday",
+      "description": "Veterans Day honors all people who have served in the United States Armed Forces, including living and deceased veterans.",
+      "details": "The date originally marked the end of World War I, when the armistice took effect on November 11, 1918. In 2028, November 11 falls on Saturday, so the federal holiday is observed on Friday, November 10.",
+      "isObservedDate": true
+    },
+    {
+      "id": "thanksgiving-2028",
+      "name": "Thanksgiving Day",
+      "date": "2028-11-23",
+      "actualDate": "2028-11-23",
+      "category": "federal_holiday",
+      "description": "Thanksgiving is a national holiday centered on gratitude, family gatherings, and sharing a special meal.",
+      "details": "Many American families celebrate with roast turkey, stuffing, mashed potatoes, pumpkin pie, and other traditional dishes. It is observed on the fourth Thursday of November and is followed by the major shopping day known as Black Friday.",
+      "isObservedDate": false
+    },
+    {
+      "id": "christmas-2028",
+      "name": "Christmas Day",
+      "date": "2028-12-25",
+      "actualDate": "2028-12-25",
+      "category": "federal_holiday",
+      "description": "Christmas Day is a Christian holiday celebrating the birth of Jesus Christ. It is also widely celebrated as a cultural holiday throughout the United States.",
+      "details": "Common traditions include decorating Christmas trees, exchanging gifts, displaying lights, attending religious services, and gathering with family.",
+      "isObservedDate": false
+    },
+  
+    {
+      "id": "new-year-2029",
+      "name": "New Year's Day",
+      "date": "2029-01-01",
+      "actualDate": "2029-01-01",
+      "category": "federal_holiday",
+      "description": "New Year's Day marks the beginning of a new calendar year. It is traditionally celebrated with fireworks, countdowns, parties, and gatherings with family and friends.",
+      "details": "January 1 is the first day of the Gregorian calendar. In the United States, it is a federal holiday when government offices close and many businesses operate on reduced hours.",
+      "isObservedDate": false
+    },
+    {
+      "id": "mlk-day-2029",
+      "name": "Martin Luther King Jr. Day",
+      "date": "2029-01-15",
+      "actualDate": "2029-01-15",
+      "category": "federal_holiday",
+      "description": "Martin Luther King Jr. Day honors the life and legacy of Dr. Martin Luther King Jr., a major leader of the American civil rights movement.",
+      "details": "Dr. King advocated nonviolent protest and equal rights for African Americans. The day is also recognized as a National Day of Service, encouraging people to volunteer and help their communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "washington-birthday-2029",
+      "name": "Washington's Birthday",
+      "date": "2029-02-19",
+      "actualDate": "2029-02-19",
+      "category": "federal_holiday",
+      "description": "Washington's Birthday honors George Washington, the first President of the United States and a central figure in the country's founding.",
+      "details": "The holiday is commonly called Presidents Day, although its official federal name remains Washington's Birthday. It is celebrated on the third Monday of February.",
+      "isObservedDate": false
+    },
+    {
+      "id": "memorial-day-2029",
+      "name": "Memorial Day",
+      "date": "2029-05-28",
+      "actualDate": "2029-05-28",
+      "category": "federal_holiday",
+      "description": "Memorial Day honors American military personnel who died while serving in the United States Armed Forces.",
+      "details": "People remember fallen service members through memorial ceremonies, visits to cemeteries, and the placement of flags on graves. It is also commonly considered the unofficial beginning of summer in the United States.",
+      "isObservedDate": false
+    },
+    {
+      "id": "juneteenth-2029",
+      "name": "Juneteenth National Independence Day",
+      "date": "2029-06-19",
+      "actualDate": "2029-06-19",
+      "category": "federal_holiday",
+      "description": "Juneteenth commemorates the end of slavery in the United States, particularly the announcement of freedom to enslaved people in Galveston, Texas, in 1865.",
+      "details": "On June 19, 1865, Union troops arrived in Galveston and announced that enslaved people were free, more than two years after the Emancipation Proclamation. Celebrations often include cultural events, music, food, and educational activities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "independence-day-2029",
+      "name": "Independence Day",
+      "date": "2029-07-04",
+      "actualDate": "2029-07-04",
+      "category": "federal_holiday",
+      "description": "Independence Day celebrates the adoption of the Declaration of Independence on July 4, 1776, when the American colonies declared their independence from Great Britain.",
+      "details": "The holiday is widely celebrated with fireworks, parades, concerts, barbecues, and patriotic displays.",
+      "isObservedDate": false
+    },
+    {
+      "id": "labor-day-2029",
+      "name": "Labor Day",
+      "date": "2029-09-03",
+      "actualDate": "2029-09-03",
+      "category": "federal_holiday",
+      "description": "Labor Day recognizes the contributions and achievements of American workers and the labor movement.",
+      "details": "The holiday celebrates workers' role in building the country's economy and improving working conditions. It is observed on the first Monday of September and is often considered the unofficial end of summer.",
+      "isObservedDate": false
+    },
+    {
+      "id": "columbus-day-2029",
+      "name": "Columbus Day",
+      "date": "2029-10-08",
+      "actualDate": "2029-10-08",
+      "category": "federal_holiday",
+      "description": "Columbus Day commemorates Christopher Columbus's 1492 arrival in the Americas.",
+      "details": "The holiday has a complicated history and is viewed differently across the United States. Some communities celebrate Indigenous Peoples' Day instead, recognizing the histories and cultures of Native American and Indigenous communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "veterans-day-2029",
+      "name": "Veterans Day",
+      "date": "2029-11-12",
+      "actualDate": "2029-11-11",
+      "category": "federal_holiday",
+      "description": "Veterans Day honors all people who have served in the United States Armed Forces, including living and deceased veterans.",
+      "details": "The date originally marked the end of World War I, when the armistice took effect on November 11, 1918. In 2029, November 11 falls on Sunday, so the federal holiday is observed on Monday, November 12.",
+      "isObservedDate": true
+    },
+    {
+      "id": "thanksgiving-2029",
+      "name": "Thanksgiving Day",
+      "date": "2029-11-22",
+      "actualDate": "2029-11-22",
+      "category": "federal_holiday",
+      "description": "Thanksgiving is a national holiday centered on gratitude, family gatherings, and sharing a special meal.",
+      "details": "Many American families celebrate with roast turkey, stuffing, mashed potatoes, pumpkin pie, and other traditional dishes. It is observed on the fourth Thursday of November and is followed by the major shopping day known as Black Friday.",
+      "isObservedDate": false
+    },
+    {
+      "id": "christmas-2029",
+      "name": "Christmas Day",
+      "date": "2029-12-25",
+      "actualDate": "2029-12-25",
+      "category": "federal_holiday",
+      "description": "Christmas Day is a Christian holiday celebrating the birth of Jesus Christ. It is also widely celebrated as a cultural holiday throughout the United States.",
+      "details": "Common traditions include decorating Christmas trees, exchanging gifts, displaying lights, attending religious services, and gathering with family.",
+      "isObservedDate": false
+    },
+  
+    {
+      "id": "new-year-2030",
+      "name": "New Year's Day",
+      "date": "2030-01-01",
+      "actualDate": "2030-01-01",
+      "category": "federal_holiday",
+      "description": "New Year's Day marks the beginning of a new calendar year. It is traditionally celebrated with fireworks, countdowns, parties, and gatherings with family and friends.",
+      "details": "January 1 is the first day of the Gregorian calendar. In the United States, it is a federal holiday when government offices close and many businesses operate on reduced hours.",
+      "isObservedDate": false
+    },
+    {
+      "id": "mlk-day-2030",
+      "name": "Martin Luther King Jr. Day",
+      "date": "2030-01-21",
+      "actualDate": "2030-01-21",
+      "category": "federal_holiday",
+      "description": "Martin Luther King Jr. Day honors the life and legacy of Dr. Martin Luther King Jr., a major leader of the American civil rights movement.",
+      "details": "Dr. King advocated nonviolent protest and equal rights for African Americans. The day is also recognized as a National Day of Service, encouraging people to volunteer and help their communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "washington-birthday-2030",
+      "name": "Washington's Birthday",
+      "date": "2030-02-18",
+      "actualDate": "2030-02-18",
+      "category": "federal_holiday",
+      "description": "Washington's Birthday honors George Washington, the first President of the United States and a central figure in the country's founding.",
+      "details": "The holiday is commonly called Presidents Day, although its official federal name remains Washington's Birthday. It is celebrated on the third Monday of February.",
+      "isObservedDate": false
+    },
+    {
+      "id": "memorial-day-2030",
+      "name": "Memorial Day",
+      "date": "2030-05-27",
+      "actualDate": "2030-05-27",
+      "category": "federal_holiday",
+      "description": "Memorial Day honors American military personnel who died while serving in the United States Armed Forces.",
+      "details": "People remember fallen service members through memorial ceremonies, visits to cemeteries, and the placement of flags on graves. It is also commonly considered the unofficial beginning of summer in the United States.",
+      "isObservedDate": false
+    },
+    {
+      "id": "juneteenth-2030",
+      "name": "Juneteenth National Independence Day",
+      "date": "2030-06-19",
+      "actualDate": "2030-06-19",
+      "category": "federal_holiday",
+      "description": "Juneteenth commemorates the end of slavery in the United States, particularly the announcement of freedom to enslaved people in Galveston, Texas, in 1865.",
+      "details": "On June 19, 1865, Union troops arrived in Galveston and announced that enslaved people were free, more than two years after the Emancipation Proclamation. Celebrations often include cultural events, music, food, and educational activities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "independence-day-2030",
+      "name": "Independence Day",
+      "date": "2030-07-04",
+      "actualDate": "2030-07-04",
+      "category": "federal_holiday",
+      "description": "Independence Day celebrates the adoption of the Declaration of Independence on July 4, 1776, when the American colonies declared their independence from Great Britain.",
+      "details": "The holiday is widely celebrated with fireworks, parades, concerts, barbecues, and patriotic displays.",
+      "isObservedDate": false
+    },
+    {
+      "id": "labor-day-2030",
+      "name": "Labor Day",
+      "date": "2030-09-02",
+      "actualDate": "2030-09-02",
+      "category": "federal_holiday",
+      "description": "Labor Day recognizes the contributions and achievements of American workers and the labor movement.",
+      "details": "The holiday celebrates workers' role in building the country's economy and improving working conditions. It is observed on the first Monday of September and is often considered the unofficial end of summer.",
+      "isObservedDate": false
+    },
+    {
+      "id": "columbus-day-2030",
+      "name": "Columbus Day",
+      "date": "2030-10-14",
+      "actualDate": "2030-10-14",
+      "category": "federal_holiday",
+      "description": "Columbus Day commemorates Christopher Columbus's 1492 arrival in the Americas.",
+      "details": "The holiday has a complicated history and is viewed differently across the United States. Some communities celebrate Indigenous Peoples' Day instead, recognizing the histories and cultures of Native American and Indigenous communities.",
+      "isObservedDate": false
+    },
+    {
+      "id": "veterans-day-2030",
+      "name": "Veterans Day",
+      "date": "2030-11-11",
+      "actualDate": "2030-11-11",
+      "category": "federal_holiday",
+      "description": "Veterans Day honors all people who have served in the United States Armed Forces, including living and deceased veterans.",
+      "details": "The date originally marked the end of World War I, when the armistice took effect on November 11, 1918. Today, ceremonies, parades, and recognition events are held to thank military veterans for their service.",
+      "isObservedDate": false
+    },
+    {
+      "id": "thanksgiving-2030",
+      "name": "Thanksgiving Day",
+      "date": "2030-11-28",
+      "actualDate": "2030-11-28",
+      "category": "federal_holiday",
+      "description": "Thanksgiving is a national holiday centered on gratitude, family gatherings, and sharing a special meal.",
+      "details": "Many American families celebrate with roast turkey, stuffing, mashed potatoes, pumpkin pie, and other traditional dishes. It is observed on the fourth Thursday of November and is followed by the major shopping day known as Black Friday.",
+      "isObservedDate": false
+    },
+    {
+      "id": "christmas-2030",
+      "name": "Christmas Day",
+      "date": "2030-12-25",
+      "actualDate": "2030-12-25",
+      "category": "federal_holiday",
+      "description": "Christmas Day is a Christian holiday celebrating the birth of Jesus Christ. It is also widely celebrated as a cultural holiday throughout the United States.",
+      "details": "Common traditions include decorating Christmas trees, exchanging gifts, displaying lights, attending religious services, and gathering with family.",
+      "isObservedDate": false
+    }
+  ]

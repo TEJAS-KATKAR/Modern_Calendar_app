@@ -1,0 +1,812 @@
+[
+    {
+      "id": "international-day-of-education",
+      "name": "International Day of Education",
+      "category": "awareness",
+      "observanceType": "education",
+      "dates": {
+        "2026": "2026-01-24",
+        "2027": "2027-01-24",
+        "2028": "2028-01-24",
+        "2029": "2029-01-24",
+        "2030": "2030-01-24"
+      },
+      "description": "International Day of Education highlights the importance of education in building peaceful, inclusive, and sustainable societies.",
+      "details": "The United Nations established this day to recognize education as a fundamental human right and an essential foundation for personal development, equal opportunities, and global progress."
+    },
+    {
+      "id": "world-wetlands-day",
+      "name": "World Wetlands Day",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-02-02",
+        "2027": "2027-02-02",
+        "2028": "2028-02-02",
+        "2029": "2029-02-02",
+        "2030": "2030-02-02"
+      },
+      "description": "World Wetlands Day raises awareness about the importance of wetlands, including marshes, swamps, and other water-rich ecosystems.",
+      "details": "Wetlands support wildlife, store water, reduce flooding, and help maintain ecological balance. The day encourages conservation and responsible protection of these valuable natural environments."
+    },
+    {
+      "id": "world-cancer-day",
+      "name": "World Cancer Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-02-04",
+        "2027": "2027-02-04",
+        "2028": "2028-02-04",
+        "2029": "2029-02-04",
+        "2030": "2030-02-04"
+      },
+      "description": "World Cancer Day promotes awareness about cancer prevention, early detection, treatment, and support for people affected by the disease.",
+      "details": "The observance encourages individuals, healthcare organizations, and governments to improve access to cancer information and care. It also highlights the importance of research and reducing inequalities in cancer treatment."
+    },
+    {
+      "id": "international-day-of-women-and-girls-in-science",
+      "name": "International Day of Women and Girls in Science",
+      "category": "awareness",
+      "observanceType": "science",
+      "dates": {
+        "2026": "2026-02-11",
+        "2027": "2027-02-11",
+        "2028": "2028-02-11",
+        "2029": "2029-02-11",
+        "2030": "2030-02-11"
+      },
+      "description": "This day recognizes the contributions of women and girls in science, technology, engineering, and mathematics.",
+      "details": "It promotes equal opportunities in scientific education and careers while encouraging more women and girls to participate in research, innovation, and technological development."
+    },
+    {
+      "id": "world-radio-day",
+      "name": "World Radio Day",
+      "category": "awareness",
+      "observanceType": "communication",
+      "dates": {
+        "2026": "2026-02-13",
+        "2027": "2027-02-13",
+        "2028": "2028-02-13",
+        "2029": "2029-02-13",
+        "2030": "2030-02-13"
+      },
+      "description": "World Radio Day celebrates radio as a medium for communication, information, education, and entertainment.",
+      "details": "Radio continues to connect communities, deliver emergency information, and provide access to news and education, including in areas with limited internet connectivity."
+    },
+    {
+      "id": "world-day-of-social-justice",
+      "name": "World Day of Social Justice",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-02-20",
+        "2027": "2027-02-20",
+        "2028": "2028-02-20",
+        "2029": "2029-02-20",
+        "2030": "2030-02-20"
+      },
+      "description": "World Day of Social Justice promotes equal opportunities, fair treatment, and the protection of human rights.",
+      "details": "The day draws attention to issues such as poverty, unemployment, discrimination, and unequal access to education and healthcare. It encourages efforts toward a fairer and more inclusive society."
+    },
+    {
+      "id": "international-mother-language-day",
+      "name": "International Mother Language Day",
+      "category": "awareness",
+      "observanceType": "culture",
+      "dates": {
+        "2026": "2026-02-21",
+        "2027": "2027-02-21",
+        "2028": "2028-02-21",
+        "2029": "2029-02-21",
+        "2030": "2030-02-21"
+      },
+      "description": "International Mother Language Day celebrates linguistic and cultural diversity and recognizes the importance of preserving native languages.",
+      "details": "Languages carry traditions, identity, history, and knowledge between generations. The day encourages multilingual education and the protection of endangered languages."
+    },
+    {
+      "id": "world-wildlife-day",
+      "name": "World Wildlife Day",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-03-03",
+        "2027": "2027-03-03",
+        "2028": "2028-03-03",
+        "2029": "2029-03-03",
+        "2030": "2030-03-03"
+      },
+      "description": "World Wildlife Day celebrates wild animals and plants and highlights the importance of protecting biodiversity.",
+      "details": "The day raises awareness about habitat destruction, illegal wildlife trade, endangered species, and conservation. It encourages people and organizations to protect ecosystems and wildlife for future generations."
+    },
+    {
+      "id": "international-womens-day",
+      "name": "International Women's Day",
+      "category": "awareness",
+      "observanceType": "equality",
+      "dates": {
+        "2026": "2026-03-08",
+        "2027": "2027-03-08",
+        "2028": "2028-03-08",
+        "2029": "2029-03-08",
+        "2030": "2030-03-08"
+      },
+      "description": "International Women's Day recognizes women's achievements and promotes gender equality and women's rights.",
+      "details": "The day highlights progress in education, employment, leadership, and social participation while drawing attention to continuing challenges such as discrimination and unequal opportunities."
+    },
+    {
+      "id": "international-day-of-happiness",
+      "name": "International Day of Happiness",
+      "category": "awareness",
+      "observanceType": "wellbeing",
+      "dates": {
+        "2026": "2026-03-20",
+        "2027": "2027-03-20",
+        "2028": "2028-03-20",
+        "2029": "2029-03-20",
+        "2030": "2030-03-20"
+      },
+      "description": "International Day of Happiness recognizes happiness and well-being as important goals for individuals and societies.",
+      "details": "The observance encourages governments and communities to consider quality of life, mental well-being, social connections, and sustainable development when measuring progress."
+    },
+    {
+      "id": "international-day-of-forests",
+      "name": "International Day of Forests",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-03-21",
+        "2027": "2027-03-21",
+        "2028": "2028-03-21",
+        "2029": "2029-03-21",
+        "2030": "2030-03-21"
+      },
+      "description": "International Day of Forests highlights the importance of forests and trees for people, wildlife, and the planet.",
+      "details": "Forests absorb carbon dioxide, support biodiversity, protect soil, and provide livelihoods for millions of people. The day encourages forest conservation and sustainable management."
+    },
+    {
+      "id": "world-down-syndrome-day",
+      "name": "World Down Syndrome Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-03-21",
+        "2027": "2027-03-21",
+        "2028": "2028-03-21",
+        "2029": "2029-03-21",
+        "2030": "2030-03-21"
+      },
+      "description": "World Down Syndrome Day promotes awareness, inclusion, and the rights of people with Down syndrome.",
+      "details": "The date, March 21, represents the three copies of chromosome 21 associated with Down syndrome. The observance encourages acceptance, equal opportunities, and support for individuals and families."
+    },
+    {
+      "id": "world-water-day",
+      "name": "World Water Day",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-03-22",
+        "2027": "2027-03-22",
+        "2028": "2028-03-22",
+        "2029": "2029-03-22",
+        "2030": "2030-03-22"
+      },
+      "description": "World Water Day focuses on the importance of freshwater and the need for safe and sustainable water management.",
+      "details": "The observance highlights challenges such as water scarcity, pollution, sanitation, and unequal access to clean drinking water. It encourages the protection of freshwater resources."
+    },
+    {
+      "id": "world-tuberculosis-day",
+      "name": "World Tuberculosis Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-03-24",
+        "2027": "2027-03-24",
+        "2028": "2028-03-24",
+        "2029": "2029-03-24",
+        "2030": "2030-03-24"
+      },
+      "description": "World Tuberculosis Day raises awareness about tuberculosis and the global effort to prevent, diagnose, and treat the disease.",
+      "details": "The date marks the 1882 announcement by Robert Koch that he had discovered the bacterium responsible for tuberculosis. The day encourages research, early diagnosis, and access to effective treatment."
+    },
+    {
+      "id": "world-autism-awareness-day",
+      "name": "World Autism Awareness Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-04-02",
+        "2027": "2027-04-02",
+        "2028": "2028-04-02",
+        "2029": "2029-04-02",
+        "2030": "2030-04-02"
+      },
+      "description": "World Autism Awareness Day promotes understanding, acceptance, and inclusion of autistic people.",
+      "details": "The day encourages greater awareness of autism, the importance of accessible support, and respect for different communication styles and experiences. Its focus includes equal opportunities in education, employment, and community life."
+    },
+    {
+      "id": "world-health-day",
+      "name": "World Health Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-04-07",
+        "2027": "2027-04-07",
+        "2028": "2028-04-07",
+        "2029": "2029-04-07",
+        "2030": "2030-04-07"
+      },
+      "description": "World Health Day highlights major global health challenges and promotes better health for people everywhere.",
+      "details": "Led by the World Health Organization, each year's observance focuses on a particular health priority. Topics can include access to healthcare, disease prevention, public health research, and well-being."
+    },
+    {
+      "id": "world-creativity-and-innovation-day",
+      "name": "World Creativity and Innovation Day",
+      "category": "awareness",
+      "observanceType": "innovation",
+      "dates": {
+        "2026": "2026-04-21",
+        "2027": "2027-04-21",
+        "2028": "2028-04-21",
+        "2029": "2029-04-21",
+        "2030": "2030-04-21"
+      },
+      "description": "World Creativity and Innovation Day recognizes the role of creative thinking and innovation in solving problems and improving society.",
+      "details": "The day encourages new ideas in science, technology, business, education, and the arts. It highlights how creativity and innovation can support sustainable development and economic growth."
+    },
+    {
+      "id": "earth-day",
+      "name": "Earth Day",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-04-22",
+        "2027": "2027-04-22",
+        "2028": "2028-04-22",
+        "2029": "2029-04-22",
+        "2030": "2030-04-22"
+      },
+      "description": "Earth Day is a worldwide environmental observance that encourages people to protect the planet and address environmental challenges.",
+      "details": "First celebrated in 1970, Earth Day is associated with activities such as tree planting, cleanups, environmental education, and campaigns addressing climate change, pollution, and biodiversity loss."
+    },
+    {
+      "id": "world-book-and-copyright-day",
+      "name": "World Book and Copyright Day",
+      "category": "awareness",
+      "observanceType": "education",
+      "dates": {
+        "2026": "2026-04-23",
+        "2027": "2027-04-23",
+        "2028": "2028-04-23",
+        "2029": "2029-04-23",
+        "2030": "2030-04-23"
+      },
+      "description": "World Book and Copyright Day celebrates books, reading, literature, and the protection of creative works.",
+      "details": "The observance encourages reading and recognizes the contributions of authors, publishers, translators, and educators. It also highlights the importance of copyright in supporting creativity and sharing knowledge."
+    },
+    {
+      "id": "world-press-freedom-day",
+      "name": "World Press Freedom Day",
+      "category": "awareness",
+      "observanceType": "human_rights",
+      "dates": {
+        "2026": "2026-05-03",
+        "2027": "2027-05-03",
+        "2028": "2028-05-03",
+        "2029": "2029-05-03",
+        "2030": "2030-05-03"
+      },
+      "description": "World Press Freedom Day recognizes the importance of independent journalism and the freedom to report and share information.",
+      "details": "The day highlights the role of a free press in democratic societies and draws attention to threats faced by journalists, including censorship, intimidation, and violence."
+    },
+    {
+      "id": "international-day-of-families",
+      "name": "International Day of Families",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-05-15",
+        "2027": "2027-05-15",
+        "2028": "2028-05-15",
+        "2029": "2029-05-15",
+        "2030": "2030-05-15"
+      },
+      "description": "International Day of Families recognizes the importance of families and their role in society.",
+      "details": "The observance highlights issues affecting families, including education, health, work-life balance, equality, and social support. It encourages policies and communities that help families thrive."
+    },
+    {
+      "id": "world-bee-day",
+      "name": "World Bee Day",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-05-20",
+        "2027": "2027-05-20",
+        "2028": "2028-05-20",
+        "2029": "2029-05-20",
+        "2030": "2030-05-20"
+      },
+      "description": "World Bee Day raises awareness of bees and other pollinators and their importance to food production and ecosystems.",
+      "details": "Pollinators help many plants reproduce and support agricultural production. The day encourages habitat protection, responsible pesticide use, and efforts to prevent pollinator decline."
+    },
+    {
+      "id": "world-no-tobacco-day",
+      "name": "World No Tobacco Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-05-31",
+        "2027": "2027-05-31",
+        "2028": "2028-05-31",
+        "2029": "2029-05-31",
+        "2030": "2030-05-31"
+      },
+      "description": "World No Tobacco Day highlights the health risks associated with tobacco use and promotes efforts to reduce tobacco consumption.",
+      "details": "The observance draws attention to the effects of tobacco on individuals, families, and communities. It also supports public health policies that help prevent tobacco use and protect people from exposure to tobacco smoke."
+    },
+    {
+      "id": "world-environment-day",
+      "name": "World Environment Day",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-06-05",
+        "2027": "2027-06-05",
+        "2028": "2028-06-05",
+        "2029": "2029-06-05",
+        "2030": "2030-06-05"
+      },
+      "description": "World Environment Day is a major global observance focused on environmental protection and action.",
+      "details": "Led by the United Nations Environment Programme, it brings attention to issues such as pollution, biodiversity, climate change, and sustainable living. Countries and communities organize campaigns and environmental activities."
+    },
+    {
+      "id": "world-oceans-day",
+      "name": "World Oceans Day",
+      "category": "awareness",
+      "observanceType": "environment",
+      "dates": {
+        "2026": "2026-06-08",
+        "2027": "2027-06-08",
+        "2028": "2028-06-08",
+        "2029": "2029-06-08",
+        "2030": "2030-06-08"
+      },
+      "description": "World Oceans Day highlights the importance of oceans and the need to protect marine environments.",
+      "details": "Oceans regulate Earth's climate, support marine life, and provide food and livelihoods. The day encourages action against plastic pollution, overfishing, habitat destruction, and other threats to ocean health."
+    },
+    {
+      "id": "world-day-against-child-labour",
+      "name": "World Day Against Child Labour",
+      "category": "awareness",
+      "observanceType": "human_rights",
+      "dates": {
+        "2026": "2026-06-12",
+        "2027": "2027-06-12",
+        "2028": "2028-06-12",
+        "2029": "2029-06-12",
+        "2030": "2030-06-12"
+      },
+      "description": "World Day Against Child Labour calls attention to children who are forced to work in conditions that harm their health, education, or development.",
+      "details": "The observance promotes the protection of children's rights and encourages governments, employers, and communities to prevent exploitation and expand access to education and safe childhoods."
+    },
+    {
+      "id": "world-blood-donor-day",
+      "name": "World Blood Donor Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-06-14",
+        "2027": "2027-06-14",
+        "2028": "2028-06-14",
+        "2029": "2029-06-14",
+        "2030": "2030-06-14"
+      },
+      "description": "World Blood Donor Day thanks voluntary blood donors and promotes the importance of safe blood donation.",
+      "details": "Donated blood is essential for emergency care, surgeries, childbirth complications, and treatment of serious illnesses. The day encourages regular voluntary donations and reliable blood supplies."
+    },
+    {
+      "id": "world-refugee-day",
+      "name": "World Refugee Day",
+      "category": "awareness",
+      "observanceType": "humanitarian",
+      "dates": {
+        "2026": "2026-06-20",
+        "2027": "2027-06-20",
+        "2028": "2028-06-20",
+        "2029": "2029-06-20",
+        "2030": "2030-06-20"
+      },
+      "description": "World Refugee Day recognizes the courage and resilience of people forced to flee their homes because of conflict, persecution, or violence.",
+      "details": "The observance highlights the challenges refugees face and promotes safety, dignity, education, and opportunities for displaced people. It also recognizes the contributions refugees make to their new communities."
+    },
+    {
+      "id": "international-day-of-yoga",
+      "name": "International Day of Yoga",
+      "category": "awareness",
+      "observanceType": "wellbeing",
+      "dates": {
+        "2026": "2026-06-21",
+        "2027": "2027-06-21",
+        "2028": "2028-06-21",
+        "2029": "2029-06-21",
+        "2030": "2030-06-21"
+      },
+      "description": "International Day of Yoga recognizes yoga as a practice that supports physical health, mental well-being, and balance.",
+      "details": "Yoga combines physical postures, breathing exercises, and meditation. The observance encourages people to explore its benefits and participate in activities promoting healthier lifestyles."
+    },
+    {
+      "id": "world-population-day",
+      "name": "World Population Day",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-07-11",
+        "2027": "2027-07-11",
+        "2028": "2028-07-11",
+        "2029": "2029-07-11",
+        "2030": "2030-07-11"
+      },
+      "description": "World Population Day draws attention to global population issues and their effects on health, development, resources, and quality of life.",
+      "details": "Topics include access to healthcare, reproductive health, education, gender equality, migration, and sustainable development. The observance encourages informed discussion about population-related challenges."
+    },
+    {
+      "id": "world-youth-skills-day",
+      "name": "World Youth Skills Day",
+      "category": "awareness",
+      "observanceType": "education",
+      "dates": {
+        "2026": "2026-07-15",
+        "2027": "2027-07-15",
+        "2028": "2028-07-15",
+        "2029": "2029-07-15",
+        "2030": "2030-07-15"
+      },
+      "description": "World Youth Skills Day highlights the importance of equipping young people with skills for employment, entrepreneurship, and lifelong learning.",
+      "details": "The day promotes technical and vocational education, digital skills, practical training, and opportunities that help young people adapt to changing workplaces and economies."
+    },
+    {
+      "id": "nelson-mandela-international-day",
+      "name": "Nelson Mandela International Day",
+      "category": "awareness",
+      "observanceType": "human_rights",
+      "dates": {
+        "2026": "2026-07-18",
+        "2027": "2027-07-18",
+        "2028": "2028-07-18",
+        "2029": "2029-07-18",
+        "2030": "2030-07-18"
+      },
+      "description": "Nelson Mandela International Day honors the life and legacy of Nelson Mandela and his work for equality, justice, and reconciliation.",
+      "details": "The day encourages people to contribute to their communities through acts of service. Mandela's leadership in ending apartheid and promoting democracy made him an internationally recognized symbol of human rights."
+    },
+    {
+      "id": "world-hepatitis-day",
+      "name": "World Hepatitis Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-07-28",
+        "2027": "2027-07-28",
+        "2028": "2028-07-28",
+        "2029": "2029-07-28",
+        "2030": "2030-07-28"
+      },
+      "description": "World Hepatitis Day raises awareness about viral hepatitis, its prevention, testing, and treatment.",
+      "details": "Viral hepatitis can cause serious liver disease. The observance encourages vaccination where available, testing, access to treatment, and public education to reduce infections and related deaths."
+    },
+    {
+      "id": "international-day-of-friendship",
+      "name": "International Day of Friendship",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-07-30",
+        "2027": "2027-07-30",
+        "2028": "2028-07-30",
+        "2029": "2029-07-30",
+        "2030": "2030-07-30"
+      },
+      "description": "International Day of Friendship celebrates friendship as a way to build understanding, trust, and peaceful relationships between people and communities.",
+      "details": "The day encourages kindness, cooperation, and connections across cultural and social differences. It recognizes the positive role friendships play in individual well-being and stronger communities."
+    },
+    {
+      "id": "international-youth-day",
+      "name": "International Youth Day",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-08-12",
+        "2027": "2027-08-12",
+        "2028": "2028-08-12",
+        "2029": "2029-08-12",
+        "2030": "2030-08-12"
+      },
+      "description": "International Youth Day recognizes the role of young people in society and highlights issues affecting their opportunities and future.",
+      "details": "The observance promotes youth participation in decision-making and draws attention to education, employment, mental well-being, equality, and civic engagement."
+    },
+    {
+      "id": "world-humanitarian-day",
+      "name": "World Humanitarian Day",
+      "category": "awareness",
+      "observanceType": "humanitarian",
+      "dates": {
+        "2026": "2026-08-19",
+        "2027": "2027-08-19",
+        "2028": "2028-08-19",
+        "2029": "2029-08-19",
+        "2030": "2030-08-19"
+      },
+      "description": "World Humanitarian Day honors humanitarian workers and people who help communities affected by conflict, disasters, and emergencies.",
+      "details": "The day recognizes the risks faced by aid workers and the importance of delivering assistance to people in need. It also remembers humanitarian workers who have lost their lives while serving others."
+    },
+    {
+      "id": "international-literacy-day",
+      "name": "International Literacy Day",
+      "category": "awareness",
+      "observanceType": "education",
+      "dates": {
+        "2026": "2026-09-08",
+        "2027": "2027-09-08",
+        "2028": "2028-09-08",
+        "2029": "2029-09-08",
+        "2030": "2030-09-08"
+      },
+      "description": "International Literacy Day highlights the importance of reading, writing, and access to quality education for people of all ages.",
+      "details": "Literacy helps people participate in society, access information, find employment, and continue learning. The day encourages efforts to improve educational opportunities and reduce illiteracy."
+    },
+    {
+      "id": "international-day-of-democracy",
+      "name": "International Day of Democracy",
+      "category": "awareness",
+      "observanceType": "human_rights",
+      "dates": {
+        "2026": "2026-09-15",
+        "2027": "2027-09-15",
+        "2028": "2028-09-15",
+        "2029": "2029-09-15",
+        "2030": "2030-09-15"
+      },
+      "description": "International Day of Democracy promotes democratic principles, public participation, and the protection of fundamental rights.",
+      "details": "The observance highlights the importance of fair elections, accountable institutions, freedom of expression, and equal participation in public life."
+    },
+    {
+      "id": "international-day-of-peace",
+      "name": "International Day of Peace",
+      "category": "awareness",
+      "observanceType": "peace",
+      "dates": {
+        "2026": "2026-09-21",
+        "2027": "2027-09-21",
+        "2028": "2028-09-21",
+        "2029": "2029-09-21",
+        "2030": "2030-09-21"
+      },
+      "description": "International Day of Peace is dedicated to strengthening ideals of peace, reducing violence, and encouraging cooperation between people and nations.",
+      "details": "The United Nations promotes this day as an opportunity for ceasefires, reflection, education, and activities that support nonviolence and peaceful conflict resolution."
+    },
+    {
+      "id": "world-tourism-day",
+      "name": "World Tourism Day",
+      "category": "awareness",
+      "observanceType": "culture",
+      "dates": {
+        "2026": "2026-09-27",
+        "2027": "2027-09-27",
+        "2028": "2028-09-27",
+        "2029": "2029-09-27",
+        "2030": "2030-09-27"
+      },
+      "description": "World Tourism Day highlights the social, cultural, economic, and environmental importance of tourism.",
+      "details": "The observance encourages responsible travel and recognizes tourism's role in supporting jobs, cultural exchange, and local communities while emphasizing the need to protect natural and cultural heritage."
+    },
+    {
+      "id": "international-day-of-older-persons",
+      "name": "International Day of Older Persons",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-10-01",
+        "2027": "2027-10-01",
+        "2028": "2028-10-01",
+        "2029": "2029-10-01",
+        "2030": "2030-10-01"
+      },
+      "description": "International Day of Older Persons recognizes the contributions of older people and promotes their dignity, rights, and well-being.",
+      "details": "The day draws attention to issues such as age discrimination, healthcare, social inclusion, accessibility, and the importance of creating communities where people can age with security and respect."
+    },
+    {
+      "id": "world-teachers-day",
+      "name": "World Teachers' Day",
+      "category": "awareness",
+      "observanceType": "education",
+      "dates": {
+        "2026": "2026-10-05",
+        "2027": "2027-10-05",
+        "2028": "2028-10-05",
+        "2029": "2029-10-05",
+        "2030": "2030-10-05"
+      },
+      "description": "World Teachers' Day recognizes teachers and their essential contribution to education and society.",
+      "details": "The observance highlights the importance of well-supported teachers, quality education, professional development, and the role educators play in shaping future generations."
+    },
+    {
+      "id": "world-mental-health-day",
+      "name": "World Mental Health Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-10-10",
+        "2027": "2027-10-10",
+        "2028": "2028-10-10",
+        "2029": "2029-10-10",
+        "2030": "2030-10-10"
+      },
+      "description": "World Mental Health Day promotes awareness of mental health and the importance of accessible support and care.",
+      "details": "The observance encourages open conversations about mental well-being, reducing stigma, recognizing mental health challenges, and improving access to professional support and treatment."
+    },
+    {
+      "id": "international-day-of-the-girl-child",
+      "name": "International Day of the Girl Child",
+      "category": "awareness",
+      "observanceType": "equality",
+      "dates": {
+        "2026": "2026-10-11",
+        "2027": "2027-10-11",
+        "2028": "2028-10-11",
+        "2029": "2029-10-11",
+        "2030": "2030-10-11"
+      },
+      "description": "International Day of the Girl Child highlights the rights, opportunities, and challenges faced by girls around the world.",
+      "details": "The day promotes equal access to education, healthcare, safety, and leadership opportunities. It also draws attention to issues such as child marriage, discrimination, and gender-based violence."
+    },
+    {
+      "id": "world-food-day",
+      "name": "World Food Day",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-10-16",
+        "2027": "2027-10-16",
+        "2028": "2028-10-16",
+        "2029": "2029-10-16",
+        "2030": "2030-10-16"
+      },
+      "description": "World Food Day raises awareness about hunger, food security, nutrition, and the importance of sustainable food systems.",
+      "details": "The observance encourages action to reduce hunger, improve access to nutritious food, support farmers, and make food production and distribution more sustainable."
+    },
+    {
+      "id": "international-day-for-eradication-of-poverty",
+      "name": "International Day for the Eradication of Poverty",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-10-17",
+        "2027": "2027-10-17",
+        "2028": "2028-10-17",
+        "2029": "2029-10-17",
+        "2030": "2030-10-17"
+      },
+      "description": "This day draws attention to poverty and the need to ensure that everyone can access basic resources and opportunities.",
+      "details": "It highlights the connections between poverty, inequality, education, healthcare, housing, and employment. The observance encourages policies and community efforts that help people overcome economic hardship."
+    },
+    {
+      "id": "united-nations-day",
+      "name": "United Nations Day",
+      "category": "awareness",
+      "observanceType": "international",
+      "dates": {
+        "2026": "2026-10-24",
+        "2027": "2027-10-24",
+        "2028": "2028-10-24",
+        "2029": "2029-10-24",
+        "2030": "2030-10-24"
+      },
+      "description": "United Nations Day marks the anniversary of the entry into force of the United Nations Charter in 1945.",
+      "details": "The day recognizes the work of the United Nations in promoting international cooperation, peace, security, human rights, and development among countries."
+    },
+    {
+      "id": "world-diabetes-day",
+      "name": "World Diabetes Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-11-14",
+        "2027": "2027-11-14",
+        "2028": "2028-11-14",
+        "2029": "2029-11-14",
+        "2030": "2030-11-14"
+      },
+      "description": "World Diabetes Day raises awareness about diabetes, its prevention, diagnosis, and long-term management.",
+      "details": "The date marks the birthday of insulin co-discoverer Frederick Banting. The observance promotes education, early diagnosis, access to treatment, and support for people living with diabetes."
+    },
+    {
+      "id": "world-childrens-day",
+      "name": "World Children's Day",
+      "category": "awareness",
+      "observanceType": "human_rights",
+      "dates": {
+        "2026": "2026-11-20",
+        "2027": "2027-11-20",
+        "2028": "2028-11-20",
+        "2029": "2029-11-20",
+        "2030": "2030-11-20"
+      },
+      "description": "World Children's Day promotes children's rights, safety, education, health, and opportunities to participate in society.",
+      "details": "The date marks the adoption of the Convention on the Rights of the Child in 1989. The observance encourages adults and governments to listen to children and protect their rights and well-being."
+    },
+    {
+      "id": "world-aids-day",
+      "name": "World AIDS Day",
+      "category": "awareness",
+      "observanceType": "health",
+      "dates": {
+        "2026": "2026-12-01",
+        "2027": "2027-12-01",
+        "2028": "2028-12-01",
+        "2029": "2029-12-01",
+        "2030": "2030-12-01"
+      },
+      "description": "World AIDS Day raises awareness about HIV and AIDS, remembers people who have died from AIDS-related illnesses, and supports people living with HIV.",
+      "details": "The observance promotes HIV testing, prevention, treatment, education, and efforts to reduce stigma and discrimination. It also highlights the importance of access to healthcare and support services."
+    },
+    {
+      "id": "international-day-of-persons-with-disabilities",
+      "name": "International Day of Persons with Disabilities",
+      "category": "awareness",
+      "observanceType": "equality",
+      "dates": {
+        "2026": "2026-12-03",
+        "2027": "2027-12-03",
+        "2028": "2028-12-03",
+        "2029": "2029-12-03",
+        "2030": "2030-12-03"
+      },
+      "description": "This day promotes the rights, dignity, accessibility, and full participation of persons with disabilities in society.",
+      "details": "It encourages the removal of physical, social, and digital barriers and highlights the importance of inclusive education, employment, public spaces, technology, and equal opportunities."
+    },
+    {
+      "id": "international-volunteer-day",
+      "name": "International Volunteer Day",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-12-05",
+        "2027": "2027-12-05",
+        "2028": "2028-12-05",
+        "2029": "2029-12-05",
+        "2030": "2030-12-05"
+      },
+      "description": "International Volunteer Day recognizes volunteers and the positive impact of community service around the world.",
+      "details": "The day celebrates people who contribute their time and skills to humanitarian work, education, environmental protection, and community projects. It also encourages more people to participate in volunteering."
+    },
+    {
+      "id": "human-rights-day",
+      "name": "Human Rights Day",
+      "category": "awareness",
+      "observanceType": "human_rights",
+      "dates": {
+        "2026": "2026-12-10",
+        "2027": "2027-12-10",
+        "2028": "2028-12-10",
+        "2029": "2029-12-10",
+        "2030": "2030-12-10"
+      },
+      "description": "Human Rights Day commemorates the adoption of the Universal Declaration of Human Rights in 1948.",
+      "details": "The observance highlights the fundamental rights and freedoms to which every person is entitled, including equality, dignity, freedom of expression, education, and protection from discrimination."
+    },
+    {
+      "id": "international-migrants-day",
+      "name": "International Migrants Day",
+      "category": "awareness",
+      "observanceType": "social",
+      "dates": {
+        "2026": "2026-12-18",
+        "2027": "2027-12-18",
+        "2028": "2028-12-18",
+        "2029": "2029-12-18",
+        "2030": "2030-12-18"
+      },
+      "description": "International Migrants Day recognizes the contributions of migrants and highlights the challenges they may face when moving between countries.",
+      "details": "The observance promotes safe and dignified migration, protection from exploitation, and respect for migrants' rights. It also recognizes the cultural, social, and economic contributions migrants make to communities."
+    }
+  ]
