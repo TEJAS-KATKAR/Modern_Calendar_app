@@ -5,8 +5,9 @@ export interface ReminderCategory {
 }
 
 export const IMPORTANT_CATEGORY_COLORS = {
-    background: "#DBEAFE",
-    text: "#3B82F6",
+    background: "#FEE2E2",
+    text: "#DC2626",
+    accent: "#FCA5A5",
 };
 
 export interface Reminder {
@@ -16,4 +17,5 @@ export interface Reminder {
     endTime: Date;
     category: ReminderCategory;
     dateKey: string;
+    completed?: boolean;
 }

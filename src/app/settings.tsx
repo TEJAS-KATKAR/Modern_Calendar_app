@@ -7,7 +7,7 @@ import {
     TouchableOpacity,
     StyleSheet,
 } from "react-native";
-import { SafeAreaView } from "react-native-safe-area-context";
+import { SafeAreaView, useSafeAreaInsets } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import { StatusBar } from "expo-status-bar";
 import { useEventPreferences } from "../context/EventPreferencesContext";
@@ -86,6 +86,7 @@ function Divider() {
 }
 
 export default function Settings() {
+    const insets = useSafeAreaInsets();
     const {
         preferences: eventSettings,
         ready: eventSettingsReady,
@@ -143,7 +144,10 @@ export default function Settings() {
 
             <ScrollView
                 showsVerticalScrollIndicator={false}
-                contentContainerStyle={styles.scrollContent}
+                contentContainerStyle={[
+                    styles.scrollContent,
+                    { paddingBottom: Math.max(insets.bottom, 10) + 96 },
+                ]}
             >
                 {/* Header */}
                 <View style={styles.header}>

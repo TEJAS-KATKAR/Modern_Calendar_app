@@ -15,6 +15,51 @@ export type CalendarEventCategory =
     | "Moon phase"
     | "Season";
 
+export const EVENT_CATEGORY_ORDER: CalendarEventCategory[] = [
+    "Federal holiday",
+    "Cultural event",
+    "Awareness day",
+    "Moon phase",
+    "Season",
+    "Astronomy",
+];
+
+export const EVENT_CATEGORY_COLORS: Record<
+    CalendarEventCategory,
+    { accent: string; background: string; text: string }
+> = {
+    "Federal holiday": {
+        accent: "#C62828",
+        background: "#FCE4E4",
+        text: "#A31515",
+    },
+    "Cultural event": {
+        accent: "#E67E22",
+        background: "#FFF0DC",
+        text: "#AD570D",
+    },
+    "Awareness day": {
+        accent: "#D97706",
+        background: "#FFF3D6",
+        text: "#995500",
+    },
+    "Astronomy": {
+        accent: "#7C3AED",
+        background: "#EEE7FF",
+        text: "#5B21B6",
+    },
+    "Moon phase": {
+        accent: "#D4A900",
+        background: "#FFF8D9",
+        text: "#8A6D00",
+    },
+    "Season": {
+        accent: "#2F855A",
+        background: "#E3F3E8",
+        text: "#246B45",
+    },
+};
+
 export interface CalendarEvent {
     id: string;
     name: string;

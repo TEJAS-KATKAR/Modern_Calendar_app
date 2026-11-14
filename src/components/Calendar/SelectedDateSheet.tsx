@@ -29,6 +29,7 @@ import {
 import {
     getCalendarEventDateKey,
     type CalendarEvent,
+    EVENT_CATEGORY_COLORS,
 } from "../../events/calendarEvents";
 
 
@@ -40,6 +41,7 @@ interface Props {
     remindersReady: boolean;
     onClose: () => void;
     onCreateReminder: (reminder: Reminder) => Promise<void>;
+    onSaveReminders: (reminders: Reminder[]) => Promise<void>;
 }
 
 
@@ -75,6 +77,9 @@ const categoryColors = [
     { bg: "#E9EBED", text: "#68717B" },
 ];
 
+const noReminders: Reminder[] = [];
+const noEvents: CalendarEvent[] = [];
+
 
 export default function SelectedDateSheet({
     visible,
@@ -84,17 +89,24 @@ export default function SelectedDateSheet({
     remindersReady,
     onClose,
     onCreateReminder,
+    onSaveReminders,
 }: Props) {
 
     const sheetRef = useRef<BottomSheet>(null);
 
-    const snapPoints = useMemo(() => ["45%", "75%"], []);
+    const snapPoints = useMemo(() => ["55%", "80%"], []);
 
     const { height } = useWindowDimensions();
 
 
     // Reminder form
     const [showCreate, setShowCreate] = useState(false);
+    const [activeReminderId, setActiveReminderId] = useState<string | null>(null);
+    const [editingReminder, setEditingReminder] = useState<Reminder | null>(null);
+    const [editTitle, setEditTitle] = useState("");
+    const [editStartTime, setEditStartTime] = useState(new Date());
+    const [editEndTime, setEditEndTime] = useState(new Date());
+    const [editTimePicker, setEditTimePicker] = useState<"start" | "end" | null>(null);
 
     const [reminderTitle, setReminderTitle] = useState("");
 
@@ -188,21 +200,38 @@ export default function SelectedDateSheet({
     ]);
 
 
+    const dateKey = date?.toDateString() ?? "";
+    const eventDateKey = date ? getCalendarEventDateKey(date) : "";
+
+    const remindersByDate = useMemo(() => {
+        const grouped = new Map<string, Reminder[]>();
+        for (const reminder of reminders) {
+            const dayReminders = grouped.get(reminder.dateKey) ?? [];
+            dayReminders.push(reminder);
+            grouped.set(reminder.dateKey, dayReminders);
+        }
+        for (const dayReminders of grouped.values()) {
+            dayReminders.sort(
+                (first, second) => first.startTime.getTime() - second.startTime.getTime()
+            );
+        }
+        return grouped;
+    }, [reminders]);
+
+    const eventsByDate = useMemo(() => {
+        const grouped = new Map<string, CalendarEvent[]>();
+        for (const event of events) {
+            const dayEvents = grouped.get(event.date) ?? [];
+            dayEvents.push(event);
+            grouped.set(event.date, dayEvents);
+        }
+        return grouped;
+    }, [events]);
+
+    const selectedReminders = remindersByDate.get(dateKey) ?? noReminders;
+    const selectedEvents = eventsByDate.get(eventDateKey) ?? noEvents;
+
     if (!date) return null;
-
-
-    const dateKey = date.toDateString();
-
-    const selectedReminders = reminders
-        .filter((reminder) => reminder.dateKey === dateKey)
-        .sort(
-            (a, b) =>
-                a.startTime.getTime() - b.startTime.getTime()
-        );
-
-    const selectedEvents = events.filter(
-        (event) => event.date === getCalendarEventDateKey(date)
-    );
 
 
     const formattedDate = date.toLocaleDateString("en-US", {
@@ -218,6 +247,65 @@ export default function SelectedDateSheet({
             hour: "2-digit",
             minute: "2-digit",
         });
+
+    const saveReminderChanges = async (updated: Reminder[]) => {
+        try {
+            await onSaveReminders(updated);
+        } catch {
+            Alert.alert("Couldn't save changes", "Please try again.");
+        }
+    };
+
+    const markReminderDone = (reminder: Reminder) => {
+        void saveReminderChanges(
+            reminders.map((item) =>
+                item.id === reminder.id
+                    ? { ...item, completed: !item.completed }
+                    : item
+            )
+        );
+        setActiveReminderId(null);
+    };
+
+    const deleteReminder = (reminder: Reminder) => {
+        Alert.alert("Delete reminder?", `Delete “${reminder.title}”?`, [
+            { text: "Cancel", style: "cancel" },
+            {
+                text: "Delete",
+                style: "destructive",
+                onPress: () => {
+                    void saveReminderChanges(
+                        reminders.filter((item) => item.id !== reminder.id)
+                    );
+                    setActiveReminderId(null);
+                },
+            },
+        ]);
+    };
+
+    const openReminderEdit = (reminder: Reminder) => {
+        setEditingReminder(reminder);
+        setEditTitle(reminder.title);
+        setEditStartTime(new Date(reminder.startTime));
+        setEditEndTime(new Date(reminder.endTime));
+        setActiveReminderId(null);
+    };
+
+    const saveReminderEdit = () => {
+        if (!editingReminder || !editTitle.trim()) return;
+        if (editEndTime.getTime() <= editStartTime.getTime()) {
+            Alert.alert("Invalid time", "End time must be later than start time.");
+            return;
+        }
+        void saveReminderChanges(
+            reminders.map((item) =>
+                item.id === editingReminder.id
+                    ? { ...item, title: editTitle.trim(), startTime: editStartTime, endTime: editEndTime }
+                    : item
+            )
+        );
+        setEditingReminder(null);
+    };
 
 
     // Create reminder
@@ -334,7 +422,7 @@ export default function SelectedDateSheet({
                     showsVerticalScrollIndicator={false}
                     contentContainerStyle={{
                         paddingHorizontal: 20,
-                        paddingBottom: 35,
+                        paddingBottom: 125,
                     }}
                 >
 
@@ -396,28 +484,41 @@ export default function SelectedDateSheet({
                                     key={event.id}
                                     className="mb-3 flex-row rounded-2xl border border-[#ECECF3] bg-white p-4"
                                 >
-                                    <View className="mr-3 w-1 rounded-full bg-red-500" />
+                                    <View
+                                        className="mr-3 w-1 rounded-full"
+                                        style={{
+                                            backgroundColor: EVENT_CATEGORY_COLORS[event.category].accent,
+                                        }}
+                                    />
 
                                     <View className="flex-1">
                                         <View className="flex-row items-start justify-between gap-2">
                                             <Text className="flex-1 text-[15px] font-semibold text-[#252941]">
                                                 {event.name}
                                             </Text>
-                                            <View className="rounded-lg bg-red-50 px-2 py-1">
-                                                <Text className="text-[10px] font-semibold text-red-700">
+                                            <View
+                                                className="rounded-lg px-2 py-1"
+                                                style={{
+                                                    backgroundColor: EVENT_CATEGORY_COLORS[event.category].background,
+                                                }}
+                                            >
+                                                <Text
+                                                    className="text-[10px] font-semibold"
+                                                    style={{ color: EVENT_CATEGORY_COLORS[event.category].text }}
+                                                >
                                                     {event.category}
                                                 </Text>
                                             </View>
                                         </View>
 
                                         {event.description && (
-                                            <Text className="mt-2 text-xs leading-5 text-[#666B80]">
+                                            <Text numberOfLines={2} className="mt-2 text-xs leading-5 text-[#666B80]">
                                                 {event.description}
                                             </Text>
                                         )}
 
                                         {event.details && (
-                                            <Text className="mt-2 text-xs leading-5 text-[#85899B]">
+                                            <Text numberOfLines={2} className="mt-2 text-xs leading-5 text-[#85899B]">
                                                 {event.details}
                                             </Text>
                                         )}
@@ -488,9 +589,13 @@ export default function SelectedDateSheet({
 
                             {selectedReminders.map((reminder) => (
 
-                                <View
-                                    key={reminder.id}
-                                    className="mb-3 flex-row items-center rounded-2xl border border-[#ECECF3] bg-white p-4"
+                                <View key={reminder.id} className="mb-3">
+                                <Pressable
+                                    onLongPress={() => setActiveReminderId(reminder.id)}
+                                    onPress={() => {
+                                        if (activeReminderId === reminder.id) setActiveReminderId(null);
+                                    }}
+                                    className="flex-row items-center rounded-2xl border border-[#ECECF3] bg-white p-4"
                                 >
 
                                     {/* CATEGORY INDICATOR */}
@@ -507,7 +612,14 @@ export default function SelectedDateSheet({
 
                                     <View className="flex-1">
 
-                                        <Text className="text-[15px] font-semibold text-[#252941]">
+                                        <Text
+                                            className="text-[15px] font-semibold"
+                                            style={
+                                                reminder.completed
+                                                    ? { color: "#85899B", textDecorationLine: "line-through" }
+                                                    : { color: "#252941" }
+                                            }
+                                        >
                                             {reminder.title}
                                         </Text>
 
@@ -535,21 +647,41 @@ export default function SelectedDateSheet({
                                     <View
                                         className="rounded-lg px-3 py-2"
                                         style={{
-                                            backgroundColor: reminder.category.color,
+                                            backgroundColor: reminder.completed ? "#E5F3EC" : reminder.category.color,
                                         }}
                                     >
 
                                         <Text
                                             className="text-[11px] font-semibold"
                                             style={{
-                                                color: reminder.category.textColor,
+                                                color: reminder.completed ? "#43836C" : reminder.category.textColor,
                                             }}
                                         >
-                                            {reminder.category.name}
+                                            {reminder.completed ? "Done" : reminder.category.name}
                                         </Text>
 
                                     </View>
 
+                                </Pressable>
+
+                                {activeReminderId === reminder.id && (
+                                    <View className="mt-2 self-end flex-row items-center rounded-full border border-[#ECEAF0] bg-white px-2 py-1 shadow">
+                                        <Pressable onPress={() => deleteReminder(reminder)} className="flex-row items-center px-3 py-2">
+                                            <Ionicons name="trash-outline" size={16} color="#DC2626" />
+                                            <Text className="ml-1.5 text-xs font-semibold text-[#DC2626]">Delete</Text>
+                                        </Pressable>
+                                        <View className="h-5 w-px bg-[#ECEAF0]" />
+                                        <Pressable onPress={() => openReminderEdit(reminder)} className="flex-row items-center px-3 py-2">
+                                            <Ionicons name="create-outline" size={16} color="#52658F" />
+                                            <Text className="ml-1.5 text-xs font-semibold text-[#52658F]">Edit</Text>
+                                        </Pressable>
+                                        <View className="h-5 w-px bg-[#ECEAF0]" />
+                                        <Pressable onPress={() => markReminderDone(reminder)} className="flex-row items-center px-3 py-2">
+                                            <Ionicons name={reminder.completed ? "arrow-undo-circle-outline" : "checkmark-circle-outline"} size={16} color="#43836C" />
+                                            <Text className="ml-1.5 text-xs font-semibold text-[#43836C]">{reminder.completed ? "Undo" : "Done"}</Text>
+                                        </Pressable>
+                                    </View>
+                                )}
                                 </View>
 
                             ))}
@@ -562,6 +694,60 @@ export default function SelectedDateSheet({
 
             </BottomSheet>}
 
+
+            {/* EDIT REMINDER MODAL */}
+            <Modal
+                visible={!!editingReminder}
+                transparent
+                animationType="fade"
+                onRequestClose={() => setEditingReminder(null)}
+            >
+                <View className="flex-1 justify-center bg-black/40 px-5">
+                    <View className="rounded-[26px] bg-white p-5">
+                        <Text className="mb-4 text-lg font-bold text-[#252941]">Edit reminder</Text>
+                        <TextInput
+                            value={editTitle}
+                            onChangeText={setEditTitle}
+                            placeholder="Reminder title"
+                            className="mb-4 rounded-xl border border-[#E8E8F0] px-4 py-3 text-[#252941]"
+                        />
+                        <View className="mb-5 flex-row gap-3">
+                            {(["start", "end"] as const).map((part) => (
+                                <Pressable
+                                    key={part}
+                                    onPress={() => setEditTimePicker(part)}
+                                    className="flex-1 flex-row items-center justify-center rounded-xl border border-[#E8E8F0] px-2 py-3"
+                                >
+                                    <Ionicons name="time-outline" size={16} color="#7058E8" />
+                                    <Text className="ml-2 text-sm text-[#30334A]">
+                                        {formatTime(part === "start" ? editStartTime : editEndTime)}
+                                    </Text>
+                                </Pressable>
+                            ))}
+                        </View>
+                        {editTimePicker && (
+                            <DateTimePicker
+                                value={editTimePicker === "start" ? editStartTime : editEndTime}
+                                mode="time"
+                                display="default"
+                                onChange={(_event, selected) => {
+                                    if (selected && editTimePicker === "start") setEditStartTime(selected);
+                                    if (selected && editTimePicker === "end") setEditEndTime(selected);
+                                    setEditTimePicker(null);
+                                }}
+                            />
+                        )}
+                        <View className="flex-row gap-3">
+                            <Pressable onPress={() => setEditingReminder(null)} className="flex-1 items-center rounded-xl bg-[#F3F2F6] py-3">
+                                <Text className="font-semibold text-[#666B7D]">Cancel</Text>
+                            </Pressable>
+                            <Pressable onPress={saveReminderEdit} className="flex-1 items-center rounded-xl bg-[#7058E8] py-3">
+                                <Text className="font-semibold text-white">Save changes</Text>
+                            </Pressable>
+                        </View>
+                    </View>
+                </View>
+            </Modal>
 
             {/* CREATE REMINDER MODAL */}
 

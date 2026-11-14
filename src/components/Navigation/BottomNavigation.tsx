@@ -4,7 +4,7 @@ import { router, usePathname } from "expo-router";
 
 const tabs = [
     { name: "Calendar", icon: "calendar-outline", href: "/" },
-    { name: "Upcoming", icon: "list-outline", href: "/saved" },
+    { name: "Upcoming", icon: "list-outline", href: "/upcoming" },
     { name: "Settings", icon: "settings-outline", href: "/settings" },
 ] as const;
 
@@ -13,11 +13,11 @@ export default function BottomNavigation() {
     const active =
         pathname === "/settings"
             ? "Settings"
-            : pathname === "/saved"
+            : pathname === "/upcoming"
               ? "Upcoming"
               : "Calendar";
     return (
-        <View className="mx-5 flex-row items-center justify-around rounded-[30px] bg-white px-4 py-3 shadow-lg">
+        <View className="mx-5 flex-row items-center justify-around rounded-[30px] bg-white px-4 py-2 pb-16 shadow-lg">
 
             {tabs.map((tab) => {
                 const selected = active === tab.name;
